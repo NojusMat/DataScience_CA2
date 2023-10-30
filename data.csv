@@ -1,1024 +1,1024 @@
-duel_outcome,duel_type,pass_length,pass_outcome,period,shot_body_part,shot_first_time,shot_outcome,shot_technique,timestamp
-N/A,N/A,7.3,Complete,1,N/A,N/A,N/A,N/A,00:00:00.500
-N/A,N/A,3.9,Complete,1,N/A,N/A,N/A,N/A,00:00:00.986
-N/A,N/A,30.1,Complete,1,N/A,N/A,N/A,N/A,00:00:04.078
-N/A,N/A,35.2,Complete,1,N/A,N/A,N/A,N/A,00:00:07.214
-N/A,N/A,29.6,Complete,1,N/A,N/A,N/A,N/A,00:00:13.855
-N/A,N/A,20.4,Out,1,N/A,N/A,N/A,N/A,00:00:20.324
-N/A,N/A,10.3,Complete,1,N/A,N/A,N/A,N/A,00:00:35.682
-N/A,N/A,5.7,Complete,1,N/A,N/A,N/A,N/A,00:00:36.753
-N/A,N/A,25.9,Complete,1,N/A,N/A,N/A,N/A,00:00:37.483
-N/A,N/A,41.6,Complete,1,N/A,N/A,N/A,N/A,00:00:40.579
-N/A,N/A,14.6,Complete,1,N/A,N/A,N/A,N/A,00:00:45.817
-N/A,N/A,24.6,Incomplete,1,N/A,N/A,N/A,N/A,00:01:03.946
-N/A,N/A,10.4,Incomplete,1,N/A,N/A,N/A,N/A,00:01:06.005
-N/A,N/A,10.5,Complete,1,N/A,N/A,N/A,N/A,00:01:07.469
-N/A,N/A,10.7,Incomplete,1,N/A,N/A,N/A,N/A,00:01:08.640
-N/A,N/A,9.2,Out,1,N/A,N/A,N/A,N/A,00:01:09.691
-N/A,N/A,18.6,Complete,1,N/A,N/A,N/A,N/A,00:01:19.306
-N/A,N/A,40.5,Incomplete,1,N/A,N/A,N/A,N/A,00:01:24.402
-N/A,N/A,29.4,Incomplete,1,N/A,N/A,N/A,N/A,00:01:29.269
-N/A,N/A,101.0,Incomplete,1,N/A,N/A,N/A,N/A,00:01:44.605
-N/A,N/A,14.7,Incomplete,1,N/A,N/A,N/A,N/A,00:01:52.342
-N/A,N/A,10.7,Complete,1,N/A,N/A,N/A,N/A,00:02:13.018
-N/A,N/A,8.0,Complete,1,N/A,N/A,N/A,N/A,00:02:13.989
-N/A,N/A,13.0,Complete,1,N/A,N/A,N/A,N/A,00:02:14.713
-N/A,N/A,9.0,Complete,1,N/A,N/A,N/A,N/A,00:02:17.759
-N/A,N/A,8.4,Complete,1,N/A,N/A,N/A,N/A,00:02:18.937
-N/A,N/A,33.2,Incomplete,1,N/A,N/A,N/A,N/A,00:02:20.342
-N/A,N/A,34.1,Complete,1,N/A,N/A,N/A,N/A,00:02:26.440
-N/A,N/A,45.8,Incomplete,1,N/A,N/A,N/A,N/A,00:02:30.870
-N/A,N/A,38.3,Complete,1,N/A,N/A,N/A,N/A,00:02:57.383
-N/A,N/A,63.1,Incomplete,1,N/A,N/A,N/A,N/A,00:03:28.200
-N/A,N/A,10.7,Incomplete,1,N/A,N/A,N/A,N/A,00:03:31.658
-N/A,N/A,18.6,Complete,1,N/A,N/A,N/A,N/A,00:03:33.232
-N/A,N/A,8.2,Complete,1,N/A,N/A,N/A,N/A,00:03:37.317
-N/A,N/A,36.8,Complete,1,N/A,N/A,N/A,N/A,00:03:39.630
-N/A,N/A,30.4,Unknown,1,N/A,N/A,N/A,N/A,00:03:43.631
-N/A,N/A,62.0,Complete,1,N/A,N/A,N/A,N/A,00:04:11.318
-N/A,N/A,5.6,Incomplete,1,N/A,N/A,N/A,N/A,00:04:17.699
-N/A,N/A,12.2,Complete,1,N/A,N/A,N/A,N/A,00:04:18.818
-N/A,N/A,51.8,Complete,1,N/A,N/A,N/A,N/A,00:04:21.351
-N/A,N/A,13.3,Complete,1,N/A,N/A,N/A,N/A,00:04:25.154
-N/A,N/A,4.7,Complete,1,N/A,N/A,N/A,N/A,00:04:26.182
-N/A,N/A,11.9,Complete,1,N/A,N/A,N/A,N/A,00:04:31.745
-N/A,N/A,18.4,Incomplete,1,N/A,N/A,N/A,N/A,00:04:47.780
-N/A,N/A,11.8,Complete,1,N/A,N/A,N/A,N/A,00:04:49.660
-N/A,N/A,9.2,Incomplete,1,N/A,N/A,N/A,N/A,00:04:50.737
-N/A,N/A,50.1,Incomplete,1,N/A,N/A,N/A,N/A,00:04:53.154
-N/A,N/A,21.6,Complete,1,N/A,N/A,N/A,N/A,00:05:04.628
-N/A,N/A,29.8,Complete,1,N/A,N/A,N/A,N/A,00:05:08.232
-N/A,N/A,21.5,Complete,1,N/A,N/A,N/A,N/A,00:05:13.800
-N/A,N/A,11.1,Complete,1,N/A,N/A,N/A,N/A,00:05:18.724
-N/A,N/A,23.6,Complete,1,N/A,N/A,N/A,N/A,00:05:22.283
-N/A,N/A,17.9,Complete,1,N/A,N/A,N/A,N/A,00:05:24.862
-N/A,N/A,16.6,Complete,1,N/A,N/A,N/A,N/A,00:05:33.840
-N/A,N/A,18.4,Complete,1,N/A,N/A,N/A,N/A,00:05:35.593
-N/A,N/A,40.2,Out,1,N/A,N/A,N/A,N/A,00:05:37.923
-N/A,N/A,85.5,Out,1,N/A,N/A,N/A,N/A,00:06:06.400
-N/A,N/A,11.8,Complete,1,N/A,N/A,N/A,N/A,00:06:18.094
-N/A,N/A,6.7,Complete,1,N/A,N/A,N/A,N/A,00:06:18.943
-N/A,N/A,5.7,Incomplete,1,N/A,N/A,N/A,N/A,00:06:22.186
-N/A,N/A,25.1,Complete,1,N/A,N/A,N/A,N/A,00:06:31.473
-N/A,N/A,5.5,Complete,1,N/A,N/A,N/A,N/A,00:06:35.269
-N/A,N/A,7.1,Complete,1,N/A,N/A,N/A,N/A,00:06:38.413
-N/A,N/A,38.7,Complete,1,N/A,N/A,N/A,N/A,00:06:39.914
-N/A,N/A,30.5,Complete,1,N/A,N/A,N/A,N/A,00:06:45.431
-N/A,N/A,23.4,Incomplete,1,N/A,N/A,N/A,N/A,00:06:50.809
-N/A,N/A,19.2,Complete,1,N/A,N/A,N/A,N/A,00:06:53.234
-N/A,N/A,49.0,Complete,1,N/A,N/A,N/A,N/A,00:06:56.857
-N/A,N/A,18.8,Incomplete,1,N/A,N/A,N/A,N/A,00:06:59.259
-N/A,N/A,7.1,Complete,1,N/A,N/A,N/A,N/A,00:07:24.643
-N/A,N/A,64.0,Out,1,N/A,N/A,N/A,N/A,00:07:28.657
-N/A,N/A,10.1,Complete,1,N/A,N/A,N/A,N/A,00:07:47.897
-N/A,N/A,10.3,Complete,1,N/A,N/A,N/A,N/A,00:07:48.748
-N/A,N/A,32.8,Out,1,N/A,N/A,N/A,N/A,00:07:49.678
-N/A,N/A,28.0,Complete,1,N/A,N/A,N/A,N/A,00:07:56.528
-N/A,N/A,15.3,Complete,1,N/A,N/A,N/A,N/A,00:07:58.858
-N/A,N/A,5.8,Incomplete,1,N/A,N/A,N/A,N/A,00:08:00.663
-N/A,N/A,43.1,Incomplete,1,N/A,N/A,N/A,N/A,00:08:26.014
-N/A,N/A,29.2,Incomplete,1,N/A,N/A,N/A,N/A,00:09:03.309
-N/A,N/A,12.9,Complete,1,N/A,N/A,N/A,N/A,00:09:20.570
-N/A,N/A,25.0,Incomplete,1,N/A,N/A,N/A,N/A,00:09:23.274
-N/A,N/A,10.8,Complete,1,N/A,N/A,N/A,N/A,00:09:24.756
-N/A,N/A,14.7,Complete,1,N/A,N/A,N/A,N/A,00:09:40.222
-N/A,N/A,15.5,Complete,1,N/A,N/A,N/A,N/A,00:09:44.060
-N/A,N/A,43.6,Complete,1,N/A,N/A,N/A,N/A,00:09:45.564
-N/A,N/A,14.9,Complete,1,N/A,N/A,N/A,N/A,00:09:47.959
-N/A,N/A,23.6,Complete,1,N/A,N/A,N/A,N/A,00:10:39.517
-N/A,N/A,15.8,Complete,1,N/A,N/A,N/A,N/A,00:10:43.435
-N/A,N/A,17.6,Complete,1,N/A,N/A,N/A,N/A,00:10:46.496
-N/A,N/A,15.3,Complete,1,N/A,N/A,N/A,N/A,00:10:57.057
-N/A,N/A,2.4,Incomplete,1,N/A,N/A,N/A,N/A,00:10:59.564
-N/A,N/A,35.6,Complete,1,N/A,N/A,N/A,N/A,00:11:05.619
-N/A,N/A,17.0,Incomplete,1,N/A,N/A,N/A,N/A,00:11:07.733
-N/A,N/A,8.8,Complete,1,N/A,N/A,N/A,N/A,00:11:09.621
-N/A,N/A,28.1,Incomplete,1,N/A,N/A,N/A,N/A,00:11:10.645
-N/A,N/A,25.6,Incomplete,1,N/A,N/A,N/A,N/A,00:11:12.941
-N/A,N/A,24.8,Incomplete,1,N/A,N/A,N/A,N/A,00:11:14.660
-N/A,N/A,18.2,Complete,1,N/A,N/A,N/A,N/A,00:11:19.163
-N/A,N/A,55.2,Complete,1,N/A,N/A,N/A,N/A,00:11:37.345
-N/A,N/A,15.6,Incomplete,1,N/A,N/A,N/A,N/A,00:11:39.463
-N/A,N/A,37.6,Incomplete,1,N/A,N/A,N/A,N/A,00:11:43.196
-N/A,N/A,14.5,Incomplete,1,N/A,N/A,N/A,N/A,00:11:45.098
-N/A,N/A,16.7,Complete,1,N/A,N/A,N/A,N/A,00:11:46.774
-N/A,N/A,16.4,Complete,1,N/A,N/A,N/A,N/A,00:11:59.510
-N/A,N/A,45.0,Complete,1,N/A,N/A,N/A,N/A,00:12:03.205
-N/A,N/A,13.9,Complete,1,N/A,N/A,N/A,N/A,00:12:06.308
-N/A,N/A,12.5,Complete,1,N/A,N/A,N/A,N/A,00:12:08.811
-N/A,N/A,26.0,Complete,1,N/A,N/A,N/A,N/A,00:12:11.378
-N/A,N/A,33.7,Complete,1,N/A,N/A,N/A,N/A,00:12:15.650
-N/A,N/A,36.9,Out,1,N/A,N/A,N/A,N/A,00:12:18.166
-N/A,N/A,32.5,Incomplete,1,N/A,N/A,N/A,N/A,00:12:34.052
-N/A,N/A,37.3,Complete,1,N/A,N/A,N/A,N/A,00:13:41.759
-N/A,N/A,35.2,Complete,1,N/A,N/A,N/A,N/A,00:13:42.796
-N/A,N/A,22.1,Complete,1,N/A,N/A,N/A,N/A,00:13:45.711
-N/A,N/A,15.6,Complete,1,N/A,N/A,N/A,N/A,00:13:48.296
-N/A,N/A,25.1,Complete,1,N/A,N/A,N/A,N/A,00:13:52.343
-N/A,N/A,10.9,Complete,1,N/A,N/A,N/A,N/A,00:13:55.257
-N/A,N/A,14.9,Complete,1,N/A,N/A,N/A,N/A,00:14:02.447
-N/A,N/A,15.1,Pass Offside,1,N/A,N/A,N/A,N/A,00:14:03.249
-N/A,N/A,45.2,Complete,1,N/A,N/A,N/A,N/A,00:14:31.441
-N/A,N/A,23.2,Complete,1,N/A,N/A,N/A,N/A,00:14:33.083
-N/A,N/A,34.9,Incomplete,1,N/A,N/A,N/A,N/A,00:14:36.078
-N/A,N/A,36.5,Incomplete,1,N/A,N/A,N/A,N/A,00:14:37.855
-N/A,N/A,29.1,Complete,1,N/A,N/A,N/A,N/A,00:14:44.600
-N/A,N/A,32.0,Incomplete,1,N/A,N/A,N/A,N/A,00:14:47.159
-N/A,N/A,15.9,Unknown,1,N/A,N/A,N/A,N/A,00:14:48.720
-N/A,N/A,27.8,Complete,1,N/A,N/A,N/A,N/A,00:15:05.805
-N/A,N/A,17.7,Complete,1,N/A,N/A,N/A,N/A,00:15:14.466
-N/A,N/A,24.4,Complete,1,N/A,N/A,N/A,N/A,00:15:15.507
-N/A,N/A,29.7,Incomplete,1,N/A,N/A,N/A,N/A,00:15:20.249
-N/A,N/A,15.1,Complete,1,N/A,N/A,N/A,N/A,00:15:28.956
-N/A,N/A,12.1,Complete,1,N/A,N/A,N/A,N/A,00:15:30.257
-N/A,N/A,12.1,Complete,1,N/A,N/A,N/A,N/A,00:15:34.049
-N/A,N/A,34.0,Complete,1,N/A,N/A,N/A,N/A,00:15:38.567
-N/A,N/A,66.4,Unknown,1,N/A,N/A,N/A,N/A,00:16:12.897
-N/A,N/A,13.0,Complete,1,N/A,N/A,N/A,N/A,00:16:22.387
-N/A,N/A,25.2,Complete,1,N/A,N/A,N/A,N/A,00:16:27.184
-N/A,N/A,47.7,Complete,1,N/A,N/A,N/A,N/A,00:16:31.248
-N/A,N/A,16.2,Complete,1,N/A,N/A,N/A,N/A,00:16:33.947
-N/A,N/A,32.5,Complete,1,N/A,N/A,N/A,N/A,00:16:39.942
-N/A,N/A,19.2,Complete,1,N/A,N/A,N/A,N/A,00:16:45.963
-N/A,N/A,19.9,Incomplete,1,N/A,N/A,N/A,N/A,00:16:47.101
-N/A,N/A,17.0,Incomplete,1,N/A,N/A,N/A,N/A,00:16:49.374
-N/A,N/A,25.7,Complete,1,N/A,N/A,N/A,N/A,00:16:51.017
-N/A,N/A,35.8,Complete,1,N/A,N/A,N/A,N/A,00:16:54.295
-N/A,N/A,23.6,Incomplete,1,N/A,N/A,N/A,N/A,00:17:01.784
-N/A,N/A,23.4,Complete,1,N/A,N/A,N/A,N/A,00:17:05.804
-N/A,N/A,11.8,Complete,1,N/A,N/A,N/A,N/A,00:17:10.452
-N/A,N/A,10.3,Complete,1,N/A,N/A,N/A,N/A,00:17:11.200
-N/A,N/A,30.6,Complete,1,N/A,N/A,N/A,N/A,00:17:19.107
-N/A,N/A,10.8,Complete,1,N/A,N/A,N/A,N/A,00:17:21.594
-N/A,N/A,29.8,Complete,1,N/A,N/A,N/A,N/A,00:17:24.767
-N/A,N/A,42.2,Complete,1,N/A,N/A,N/A,N/A,00:17:27.605
-N/A,N/A,16.9,Complete,1,N/A,N/A,N/A,N/A,00:17:32.680
-N/A,N/A,32.6,Complete,1,N/A,N/A,N/A,N/A,00:17:36.518
-N/A,N/A,66.4,Incomplete,1,N/A,N/A,N/A,N/A,00:18:08.434
-N/A,N/A,34.9,Incomplete,1,N/A,N/A,N/A,N/A,00:18:11.816
-N/A,N/A,30.0,Complete,1,N/A,N/A,N/A,N/A,00:18:18.385
-N/A,N/A,58.2,Incomplete,1,N/A,N/A,N/A,N/A,00:18:25.327
-N/A,N/A,16.5,Incomplete,1,N/A,N/A,N/A,N/A,00:18:28.064
-N/A,N/A,9.2,Complete,1,N/A,N/A,N/A,N/A,00:18:31.460
-N/A,N/A,14.6,Complete,1,N/A,N/A,N/A,N/A,00:18:35.324
-N/A,N/A,19.4,Complete,1,N/A,N/A,N/A,N/A,00:18:37.871
-N/A,N/A,17.6,Complete,1,N/A,N/A,N/A,N/A,00:18:38.810
-N/A,N/A,88.0,Incomplete,1,N/A,N/A,N/A,N/A,00:19:10.571
-N/A,N/A,19.2,Complete,1,N/A,N/A,N/A,N/A,00:19:12.559
-N/A,N/A,51.6,Incomplete,1,N/A,N/A,N/A,N/A,00:19:26.329
-N/A,N/A,35.9,Incomplete,1,N/A,N/A,N/A,N/A,00:19:29.141
-N/A,N/A,20.8,Complete,1,N/A,N/A,N/A,N/A,00:19:32.957
-N/A,N/A,52.2,Incomplete,1,N/A,N/A,N/A,N/A,00:19:44.411
-N/A,N/A,20.4,Incomplete,1,N/A,N/A,N/A,N/A,00:19:48.226
-N/A,N/A,16.0,Incomplete,1,N/A,N/A,N/A,N/A,00:19:49.785
-N/A,N/A,11.2,Incomplete,1,N/A,N/A,N/A,N/A,00:19:51.194
-N/A,N/A,20.4,Complete,1,N/A,N/A,N/A,N/A,00:19:53.271
-N/A,N/A,15.6,Complete,1,N/A,N/A,N/A,N/A,00:19:57.363
-N/A,N/A,55.7,Complete,1,N/A,N/A,N/A,N/A,00:20:35.497
-N/A,N/A,43.1,Complete,1,N/A,N/A,N/A,N/A,00:20:41.595
-N/A,N/A,8.7,Complete,1,N/A,N/A,N/A,N/A,00:20:53.968
-N/A,N/A,21.4,Complete,1,N/A,N/A,N/A,N/A,00:20:56.776
-N/A,N/A,34.6,Complete,1,N/A,N/A,N/A,N/A,00:21:01.389
-N/A,N/A,10.6,Complete,1,N/A,N/A,N/A,N/A,00:21:05.322
-N/A,N/A,20.3,Complete,1,N/A,N/A,N/A,N/A,00:21:07.786
-N/A,N/A,20.1,Complete,1,N/A,N/A,N/A,N/A,00:21:11.383
-N/A,N/A,39.1,Complete,1,N/A,N/A,N/A,N/A,00:21:14.331
-N/A,N/A,57.1,Incomplete,1,N/A,N/A,N/A,N/A,00:21:19.156
-N/A,N/A,29.3,Incomplete,1,N/A,N/A,N/A,N/A,00:21:22.043
-N/A,N/A,16.3,Incomplete,1,N/A,N/A,N/A,N/A,00:21:24.836
-N/A,N/A,8.0,Complete,1,N/A,N/A,N/A,N/A,00:21:26.293
-N/A,N/A,10.5,Incomplete,1,N/A,N/A,N/A,N/A,00:21:27.670
-N/A,N/A,8.9,Complete,1,N/A,N/A,N/A,N/A,00:21:29.722
-N/A,N/A,23.4,Complete,1,N/A,N/A,N/A,N/A,00:21:49.420
-N/A,N/A,10.3,Complete,1,N/A,N/A,N/A,N/A,00:21:51.206
-N/A,N/A,10.8,Complete,1,N/A,N/A,N/A,N/A,00:21:53.130
-N/A,N/A,24.4,Complete,1,N/A,N/A,N/A,N/A,00:21:55.298
-N/A,N/A,16.3,Complete,1,N/A,N/A,N/A,N/A,00:21:58.082
-N/A,N/A,15.2,Complete,1,N/A,N/A,N/A,N/A,00:21:59.952
-N/A,N/A,12.8,Complete,1,N/A,N/A,N/A,N/A,00:22:00.684
-N/A,N/A,26.3,Complete,1,N/A,N/A,N/A,N/A,00:22:02.475
-N/A,N/A,8.8,Complete,1,N/A,N/A,N/A,N/A,00:22:05.365
-N/A,N/A,22.6,Complete,1,N/A,N/A,N/A,N/A,00:22:09.609
-N/A,N/A,20.6,Complete,1,N/A,N/A,N/A,N/A,00:22:14.986
-N/A,N/A,16.3,Complete,1,N/A,N/A,N/A,N/A,00:22:17.062
-N/A,N/A,46.9,Complete,1,N/A,N/A,N/A,N/A,00:22:21.929
-N/A,N/A,28.6,Complete,1,N/A,N/A,N/A,N/A,00:22:34.134
-N/A,N/A,34.3,Complete,1,N/A,N/A,N/A,N/A,00:22:38.216
-N/A,N/A,16.6,Complete,1,N/A,N/A,N/A,N/A,00:22:42.176
-N/A,N/A,35.1,Out,1,N/A,N/A,N/A,N/A,00:22:46.231
-N/A,N/A,65.8,Complete,1,N/A,N/A,N/A,N/A,00:23:21.396
-N/A,N/A,29.5,Incomplete,1,N/A,N/A,N/A,N/A,00:23:24.520
-N/A,N/A,27.0,Complete,1,N/A,N/A,N/A,N/A,00:23:45.750
-N/A,N/A,12.8,Complete,1,N/A,N/A,N/A,N/A,00:23:53.517
-N/A,N/A,40.9,Out,1,N/A,N/A,N/A,N/A,00:23:55.442
-N/A,N/A,51.5,Incomplete,1,N/A,N/A,N/A,N/A,00:24:16.939
-N/A,N/A,5.9,Unknown,1,N/A,N/A,N/A,N/A,00:24:20.351
-N/A,N/A,38.8,Complete,1,N/A,N/A,N/A,N/A,00:24:33.559
-N/A,N/A,12.6,Complete,1,N/A,N/A,N/A,N/A,00:24:38.949
-N/A,N/A,25.9,Complete,1,N/A,N/A,N/A,N/A,00:24:43.777
-N/A,N/A,22.4,Complete,1,N/A,N/A,N/A,N/A,00:24:46.972
-N/A,N/A,50.1,Out,1,N/A,N/A,N/A,N/A,00:24:52.135
-N/A,N/A,29.8,Complete,1,N/A,N/A,N/A,N/A,00:25:10.456
-N/A,N/A,12.0,Incomplete,1,N/A,N/A,N/A,N/A,00:25:12.152
-N/A,N/A,14.8,Complete,1,N/A,N/A,N/A,N/A,00:25:17.990
-N/A,N/A,14.8,Pass Offside,1,N/A,N/A,N/A,N/A,00:25:20.386
-N/A,N/A,30.9,Complete,1,N/A,N/A,N/A,N/A,00:25:33.630
-N/A,N/A,12.5,Complete,1,N/A,N/A,N/A,N/A,00:25:38.392
-N/A,N/A,23.8,Complete,1,N/A,N/A,N/A,N/A,00:25:41.532
-N/A,N/A,22.7,Complete,1,N/A,N/A,N/A,N/A,00:25:48.686
-N/A,N/A,17.9,Complete,1,N/A,N/A,N/A,N/A,00:25:55.559
-N/A,N/A,31.3,Complete,1,N/A,N/A,N/A,N/A,00:25:58.119
-N/A,N/A,10.7,Complete,1,N/A,N/A,N/A,N/A,00:26:00.891
-N/A,N/A,18.1,Complete,1,N/A,N/A,N/A,N/A,00:26:05.021
-N/A,N/A,32.3,Incomplete,1,N/A,N/A,N/A,N/A,00:26:08.048
-N/A,N/A,18.7,Complete,1,N/A,N/A,N/A,N/A,00:26:09.461
-N/A,N/A,73.0,Complete,1,N/A,N/A,N/A,N/A,00:26:14.275
-N/A,N/A,17.3,Incomplete,1,N/A,N/A,N/A,N/A,00:26:20.524
-N/A,N/A,32.8,Complete,1,N/A,N/A,N/A,N/A,00:26:38.102
-N/A,N/A,19.1,Complete,1,N/A,N/A,N/A,N/A,00:26:41.343
-N/A,N/A,16.4,Complete,1,N/A,N/A,N/A,N/A,00:26:47.513
-N/A,N/A,11.3,Complete,1,N/A,N/A,N/A,N/A,00:26:49.253
-N/A,N/A,26.4,Out,1,N/A,N/A,N/A,N/A,00:26:51.330
-N/A,N/A,35.2,Incomplete,1,N/A,N/A,N/A,N/A,00:27:14.922
-N/A,N/A,9.3,Complete,1,N/A,N/A,N/A,N/A,00:27:18.265
-N/A,N/A,41.2,Complete,1,N/A,N/A,N/A,N/A,00:27:18.924
-N/A,N/A,16.5,Complete,1,N/A,N/A,N/A,N/A,00:27:29.507
-N/A,N/A,19.9,Complete,1,N/A,N/A,N/A,N/A,00:27:31.168
-N/A,N/A,46.3,Complete,1,N/A,N/A,N/A,N/A,00:27:34.177
-N/A,N/A,13.7,Complete,1,N/A,N/A,N/A,N/A,00:27:38.016
-N/A,N/A,9.6,Complete,1,N/A,N/A,N/A,N/A,00:27:42.808
-N/A,N/A,7.2,Incomplete,1,N/A,N/A,N/A,N/A,00:27:43.599
-N/A,N/A,9.2,Complete,1,N/A,N/A,N/A,N/A,00:27:44.876
-N/A,N/A,16.3,Incomplete,1,N/A,N/A,N/A,N/A,00:27:46.413
-N/A,N/A,11.7,Complete,1,N/A,N/A,N/A,N/A,00:27:47.866
-N/A,N/A,14.0,Complete,1,N/A,N/A,N/A,N/A,00:27:50.163
-N/A,N/A,11.2,Complete,1,N/A,N/A,N/A,N/A,00:27:53.232
-N/A,N/A,34.0,Complete,1,N/A,N/A,N/A,N/A,00:27:56.508
-N/A,N/A,28.6,Complete,1,N/A,N/A,N/A,N/A,00:27:59.303
-N/A,N/A,40.5,Incomplete,1,N/A,N/A,N/A,N/A,00:28:02.563
-N/A,N/A,4.2,Incomplete,1,N/A,N/A,N/A,N/A,00:28:08.406
-N/A,N/A,25.1,Incomplete,1,N/A,N/A,N/A,N/A,00:28:27.370
-N/A,N/A,14.6,Complete,1,N/A,N/A,N/A,N/A,00:28:41.381
-N/A,N/A,13.2,Out,1,N/A,N/A,N/A,N/A,00:28:42.664
-N/A,N/A,28.7,Incomplete,1,N/A,N/A,N/A,N/A,00:29:00.854
-N/A,N/A,12.6,Incomplete,1,N/A,N/A,N/A,N/A,00:29:02.437
-N/A,N/A,5.3,Complete,1,N/A,N/A,N/A,N/A,00:29:04.007
-N/A,N/A,9.1,Complete,1,N/A,N/A,N/A,N/A,00:29:04.833
-N/A,N/A,40.1,Incomplete,1,N/A,N/A,N/A,N/A,00:29:15.658
-N/A,N/A,15.4,Complete,1,N/A,N/A,N/A,N/A,00:29:19.189
-N/A,N/A,4.6,Incomplete,1,N/A,N/A,N/A,N/A,00:29:26.967
-N/A,N/A,6.5,Complete,1,N/A,N/A,N/A,N/A,00:29:29.012
-N/A,N/A,35.1,Complete,1,N/A,N/A,N/A,N/A,00:29:31.188
-N/A,N/A,25.3,Complete,1,N/A,N/A,N/A,N/A,00:29:35.594
-N/A,N/A,11.8,Complete,1,N/A,N/A,N/A,N/A,00:29:38.794
-N/A,N/A,26.1,Complete,1,N/A,N/A,N/A,N/A,00:29:40.617
-N/A,N/A,24.6,Incomplete,1,N/A,N/A,N/A,N/A,00:29:45.426
-N/A,N/A,77.1,Out,1,N/A,N/A,N/A,N/A,00:30:03.005
-N/A,N/A,18.9,Complete,1,N/A,N/A,N/A,N/A,00:30:08.596
-N/A,N/A,22.9,Complete,1,N/A,N/A,N/A,N/A,00:30:11.642
-N/A,N/A,30.5,Complete,1,N/A,N/A,N/A,N/A,00:30:16.434
-N/A,N/A,19.2,Complete,1,N/A,N/A,N/A,N/A,00:30:20.826
-N/A,N/A,11.4,Complete,1,N/A,N/A,N/A,N/A,00:30:25.382
-N/A,N/A,18.3,Complete,1,N/A,N/A,N/A,N/A,00:30:26.938
-N/A,N/A,49.1,Complete,1,N/A,N/A,N/A,N/A,00:30:29.969
-N/A,N/A,50.7,Pass Offside,1,N/A,N/A,N/A,N/A,00:30:33.399
-N/A,N/A,24.8,Complete,1,N/A,N/A,N/A,N/A,00:30:47.732
-N/A,N/A,21.3,Complete,1,N/A,N/A,N/A,N/A,00:30:50.695
-N/A,N/A,60.0,Incomplete,1,N/A,N/A,N/A,N/A,00:30:56.818
-N/A,N/A,63.3,Incomplete,1,N/A,N/A,N/A,N/A,00:31:08.179
-N/A,N/A,15.6,Complete,1,N/A,N/A,N/A,N/A,00:31:11.378
-N/A,N/A,7.2,Incomplete,1,N/A,N/A,N/A,N/A,00:31:13.026
-N/A,N/A,11.0,Complete,1,N/A,N/A,N/A,N/A,00:31:15.878
-N/A,N/A,9.8,Complete,1,N/A,N/A,N/A,N/A,00:31:17.454
-N/A,N/A,10.9,Complete,1,N/A,N/A,N/A,N/A,00:31:18.145
-N/A,N/A,8.5,Complete,1,N/A,N/A,N/A,N/A,00:31:20.214
-N/A,N/A,17.2,Complete,1,N/A,N/A,N/A,N/A,00:31:21.549
-N/A,N/A,8.6,Complete,1,N/A,N/A,N/A,N/A,00:31:22.487
-N/A,N/A,11.5,Complete,1,N/A,N/A,N/A,N/A,00:31:24.197
-N/A,N/A,9.6,Complete,1,N/A,N/A,N/A,N/A,00:31:25.537
-N/A,N/A,26.3,Incomplete,1,N/A,N/A,N/A,N/A,00:31:26.753
-N/A,N/A,39.7,Incomplete,1,N/A,N/A,N/A,N/A,00:31:31.185
-N/A,N/A,11.9,Incomplete,1,N/A,N/A,N/A,N/A,00:31:34.621
-N/A,N/A,5.2,Incomplete,1,N/A,N/A,N/A,N/A,00:31:37.564
-N/A,N/A,7.7,Incomplete,1,N/A,N/A,N/A,N/A,00:31:40.908
-N/A,N/A,18.3,Complete,1,N/A,N/A,N/A,N/A,00:31:44.067
-N/A,N/A,9.0,Complete,1,N/A,N/A,N/A,N/A,00:31:48.020
-N/A,N/A,31.5,Complete,1,N/A,N/A,N/A,N/A,00:31:50.393
-N/A,N/A,30.7,Incomplete,1,N/A,N/A,N/A,N/A,00:31:53.033
-N/A,N/A,25.1,Complete,1,N/A,N/A,N/A,N/A,00:32:02.418
-N/A,N/A,10.7,Complete,1,N/A,N/A,N/A,N/A,00:32:08.488
-N/A,N/A,38.9,Complete,1,N/A,N/A,N/A,N/A,00:32:10.427
-N/A,N/A,15.5,Complete,1,N/A,N/A,N/A,N/A,00:32:12.917
-N/A,N/A,29.6,Incomplete,1,N/A,N/A,N/A,N/A,00:32:18.334
-N/A,N/A,9.5,Complete,1,N/A,N/A,N/A,N/A,00:32:22.424
-N/A,N/A,23.8,Complete,1,N/A,N/A,N/A,N/A,00:32:24.131
-N/A,N/A,44.5,Complete,1,N/A,N/A,N/A,N/A,00:32:26.693
-N/A,N/A,8.4,Complete,1,N/A,N/A,N/A,N/A,00:32:33.732
-N/A,N/A,67.3,Incomplete,1,N/A,N/A,N/A,N/A,00:33:02.888
-N/A,N/A,18.7,Complete,1,N/A,N/A,N/A,N/A,00:33:06.462
-N/A,N/A,19.7,Complete,1,N/A,N/A,N/A,N/A,00:33:16.938
-N/A,N/A,29.2,Complete,1,N/A,N/A,N/A,N/A,00:33:19.675
-N/A,N/A,56.0,Incomplete,1,N/A,N/A,N/A,N/A,00:33:23.876
-N/A,N/A,13.8,Complete,1,N/A,N/A,N/A,N/A,00:33:27.109
-N/A,N/A,21.6,Complete,1,N/A,N/A,N/A,N/A,00:33:28.138
-N/A,N/A,11.3,Complete,1,N/A,N/A,N/A,N/A,00:33:30.095
-N/A,N/A,29.6,Complete,1,N/A,N/A,N/A,N/A,00:33:32.288
-N/A,N/A,16.9,Complete,1,N/A,N/A,N/A,N/A,00:33:34.342
-N/A,N/A,11.0,Complete,1,N/A,N/A,N/A,N/A,00:33:36.632
-N/A,N/A,20.2,Complete,1,N/A,N/A,N/A,N/A,00:33:39.016
-N/A,N/A,16.4,Complete,1,N/A,N/A,N/A,N/A,00:33:41.846
-N/A,N/A,13.0,Complete,1,N/A,N/A,N/A,N/A,00:33:42.872
-N/A,N/A,19.1,Complete,1,N/A,N/A,N/A,N/A,00:33:48.295
-N/A,N/A,26.2,Complete,1,N/A,N/A,N/A,N/A,00:33:54.862
-N/A,N/A,61.0,Complete,1,N/A,N/A,N/A,N/A,00:34:01.110
-N/A,N/A,7.4,Complete,1,N/A,N/A,N/A,N/A,00:34:04.331
-N/A,N/A,19.3,Incomplete,1,N/A,N/A,N/A,N/A,00:34:06.240
-N/A,N/A,26.0,Complete,1,N/A,N/A,N/A,N/A,00:34:08.746
-N/A,N/A,2.6,Incomplete,1,N/A,N/A,N/A,N/A,00:34:17.272
-N/A,N/A,11.6,Complete,1,N/A,N/A,N/A,N/A,00:34:22.589
-N/A,N/A,30.2,Complete,1,N/A,N/A,N/A,N/A,00:34:27.577
-N/A,N/A,22.7,Complete,1,N/A,N/A,N/A,N/A,00:34:32.930
-N/A,N/A,26.6,Complete,1,N/A,N/A,N/A,N/A,00:34:35.761
-N/A,N/A,12.9,Complete,1,N/A,N/A,N/A,N/A,00:34:38.245
-N/A,N/A,25.6,Complete,1,N/A,N/A,N/A,N/A,00:34:42.544
-N/A,N/A,43.4,Complete,1,N/A,N/A,N/A,N/A,00:34:45.212
-N/A,N/A,9.9,Complete,1,N/A,N/A,N/A,N/A,00:34:49.713
-N/A,N/A,10.9,Complete,1,N/A,N/A,N/A,N/A,00:34:53.191
-N/A,N/A,42.5,Complete,1,N/A,N/A,N/A,N/A,00:34:54.928
-N/A,N/A,50.0,Incomplete,1,N/A,N/A,N/A,N/A,00:35:00.443
-N/A,N/A,29.2,Complete,1,N/A,N/A,N/A,N/A,00:35:04.559
-N/A,N/A,18.3,Complete,1,N/A,N/A,N/A,N/A,00:35:08.045
-N/A,N/A,15.8,Complete,1,N/A,N/A,N/A,N/A,00:35:08.834
-N/A,N/A,41.2,Complete,1,N/A,N/A,N/A,N/A,00:35:15.432
-N/A,N/A,22.6,Complete,1,N/A,N/A,N/A,N/A,00:35:21.969
-N/A,N/A,9.6,Complete,1,N/A,N/A,N/A,N/A,00:35:23.831
-N/A,N/A,25.9,Complete,1,N/A,N/A,N/A,N/A,00:35:25.165
-N/A,N/A,34.3,Incomplete,1,N/A,N/A,N/A,N/A,00:36:30.627
-N/A,N/A,29.2,Incomplete,1,N/A,N/A,N/A,N/A,00:36:50.433
-N/A,N/A,52.0,Unknown,1,N/A,N/A,N/A,N/A,00:36:53.520
-N/A,N/A,62.8,Incomplete,1,N/A,N/A,N/A,N/A,00:39:33.817
-N/A,N/A,13.4,Complete,1,N/A,N/A,N/A,N/A,00:39:39.750
-N/A,N/A,11.5,Complete,1,N/A,N/A,N/A,N/A,00:39:42.214
-N/A,N/A,28.3,Complete,1,N/A,N/A,N/A,N/A,00:39:43.742
-N/A,N/A,17.7,Complete,1,N/A,N/A,N/A,N/A,00:39:48.222
-N/A,N/A,59.2,Incomplete,1,N/A,N/A,N/A,N/A,00:39:52.760
-N/A,N/A,14.7,Complete,1,N/A,N/A,N/A,N/A,00:39:55.855
-N/A,N/A,10.7,Complete,1,N/A,N/A,N/A,N/A,00:39:56.752
-N/A,N/A,40.0,Incomplete,1,N/A,N/A,N/A,N/A,00:39:57.556
-N/A,N/A,32.0,Incomplete,1,N/A,N/A,N/A,N/A,00:39:59.424
-N/A,N/A,19.0,Complete,1,N/A,N/A,N/A,N/A,00:40:02.577
-N/A,N/A,15.2,Complete,1,N/A,N/A,N/A,N/A,00:40:04.440
-N/A,N/A,9.6,Complete,1,N/A,N/A,N/A,N/A,00:40:29.000
-N/A,N/A,5.0,Incomplete,1,N/A,N/A,N/A,N/A,00:40:30.888
-N/A,N/A,3.0,Incomplete,1,N/A,N/A,N/A,N/A,00:40:32.089
-N/A,N/A,6.3,Complete,1,N/A,N/A,N/A,N/A,00:40:33.242
-N/A,N/A,29.9,Incomplete,1,N/A,N/A,N/A,N/A,00:40:34.600
-N/A,N/A,13.7,Complete,1,N/A,N/A,N/A,N/A,00:40:36.714
-N/A,N/A,39.3,Incomplete,1,N/A,N/A,N/A,N/A,00:40:39.733
-N/A,N/A,12.3,Complete,1,N/A,N/A,N/A,N/A,00:40:47.657
-N/A,N/A,34.7,Complete,1,N/A,N/A,N/A,N/A,00:40:50.917
-N/A,N/A,27.8,Complete,1,N/A,N/A,N/A,N/A,00:40:56.124
-N/A,N/A,24.8,Complete,1,N/A,N/A,N/A,N/A,00:40:59.729
-N/A,N/A,17.7,Complete,1,N/A,N/A,N/A,N/A,00:41:02.459
-N/A,N/A,22.4,Complete,1,N/A,N/A,N/A,N/A,00:41:07.726
-N/A,N/A,34.0,Incomplete,1,N/A,N/A,N/A,N/A,00:41:10.299
-N/A,N/A,54.6,Complete,1,N/A,N/A,N/A,N/A,00:41:13.589
-N/A,N/A,14.2,Complete,1,N/A,N/A,N/A,N/A,00:41:20.727
-N/A,N/A,18.1,Complete,1,N/A,N/A,N/A,N/A,00:41:21.598
-N/A,N/A,27.8,Complete,1,N/A,N/A,N/A,N/A,00:41:23.007
-N/A,N/A,28.7,Complete,1,N/A,N/A,N/A,N/A,00:41:25.897
-N/A,N/A,24.6,Complete,1,N/A,N/A,N/A,N/A,00:41:28.232
-N/A,N/A,24.3,Complete,1,N/A,N/A,N/A,N/A,00:41:32.272
-N/A,N/A,20.8,Complete,1,N/A,N/A,N/A,N/A,00:41:39.028
-N/A,N/A,29.7,Complete,1,N/A,N/A,N/A,N/A,00:42:03.263
-N/A,N/A,25.7,Complete,1,N/A,N/A,N/A,N/A,00:42:05.423
-N/A,N/A,2.4,Incomplete,1,N/A,N/A,N/A,N/A,00:42:08.368
-N/A,N/A,5.1,Incomplete,1,N/A,N/A,N/A,N/A,00:42:14.013
-N/A,N/A,25.7,Complete,1,N/A,N/A,N/A,N/A,00:42:29.719
-N/A,N/A,12.0,Incomplete,1,N/A,N/A,N/A,N/A,00:42:31.326
-N/A,N/A,41.1,Incomplete,1,N/A,N/A,N/A,N/A,00:42:33.507
-N/A,N/A,14.8,Incomplete,1,N/A,N/A,N/A,N/A,00:42:36.075
-N/A,N/A,25.1,Out,1,N/A,N/A,N/A,N/A,00:42:38.703
-N/A,N/A,12.5,Complete,1,N/A,N/A,N/A,N/A,00:42:47.637
-N/A,N/A,8.2,Complete,1,N/A,N/A,N/A,N/A,00:42:49.049
-N/A,N/A,50.8,Complete,1,N/A,N/A,N/A,N/A,00:42:50.076
-N/A,N/A,40.7,Complete,1,N/A,N/A,N/A,N/A,00:42:55.916
-N/A,N/A,35.2,Complete,1,N/A,N/A,N/A,N/A,00:43:00.481
-N/A,N/A,37.2,Incomplete,1,N/A,N/A,N/A,N/A,00:43:03.460
-N/A,N/A,62.8,Incomplete,1,N/A,N/A,N/A,N/A,00:43:17.762
-N/A,N/A,15.0,Out,1,N/A,N/A,N/A,N/A,00:43:21.040
-N/A,N/A,11.3,Complete,1,N/A,N/A,N/A,N/A,00:43:35.133
-N/A,N/A,28.7,Incomplete,1,N/A,N/A,N/A,N/A,00:43:37.563
-N/A,N/A,19.0,Incomplete,1,N/A,N/A,N/A,N/A,00:43:39.174
-N/A,N/A,30.2,Complete,1,N/A,N/A,N/A,N/A,00:43:41.321
-N/A,N/A,7.7,Incomplete,1,N/A,N/A,N/A,N/A,00:43:44.159
-N/A,N/A,25.6,Incomplete,1,N/A,N/A,N/A,N/A,00:43:47.923
-N/A,N/A,25.6,Out,1,N/A,N/A,N/A,N/A,00:43:50.003
-N/A,N/A,9.3,Complete,1,N/A,N/A,N/A,N/A,00:44:05.548
-N/A,N/A,6.2,Complete,1,N/A,N/A,N/A,N/A,00:44:06.548
-N/A,N/A,6.7,Complete,1,N/A,N/A,N/A,N/A,00:44:07.917
-N/A,N/A,21.7,Complete,1,N/A,N/A,N/A,N/A,00:44:09.802
-N/A,N/A,32.0,Complete,1,N/A,N/A,N/A,N/A,00:44:12.512
-N/A,N/A,20.2,Complete,1,N/A,N/A,N/A,N/A,00:44:16.443
-N/A,N/A,15.1,Complete,1,N/A,N/A,N/A,N/A,00:44:18.010
-N/A,N/A,16.9,Complete,1,N/A,N/A,N/A,N/A,00:44:21.525
-N/A,N/A,37.7,Complete,1,N/A,N/A,N/A,N/A,00:44:23.347
-N/A,N/A,15.7,Complete,1,N/A,N/A,N/A,N/A,00:44:27.428
-N/A,N/A,23.7,Complete,1,N/A,N/A,N/A,N/A,00:44:33.129
-N/A,N/A,45.4,Complete,1,N/A,N/A,N/A,N/A,00:44:36.036
-N/A,N/A,14.0,Complete,1,N/A,N/A,N/A,N/A,00:44:41.518
-N/A,N/A,25.8,Complete,1,N/A,N/A,N/A,N/A,00:44:43.531
-N/A,N/A,8.7,Complete,1,N/A,N/A,N/A,N/A,00:44:47.292
-N/A,N/A,43.1,Complete,1,N/A,N/A,N/A,N/A,00:44:49.418
-N/A,N/A,43.7,Complete,1,N/A,N/A,N/A,N/A,00:44:54.793
-N/A,N/A,13.6,Complete,1,N/A,N/A,N/A,N/A,00:45:03.155
-N/A,N/A,37.4,Complete,1,N/A,N/A,N/A,N/A,00:45:34.180
-N/A,N/A,59.7,Complete,1,N/A,N/A,N/A,N/A,00:45:49.945
-N/A,N/A,13.9,Complete,1,N/A,N/A,N/A,N/A,00:45:53.817
-N/A,N/A,20.6,Complete,1,N/A,N/A,N/A,N/A,00:45:56.337
-N/A,N/A,33.1,Incomplete,1,N/A,N/A,N/A,N/A,00:45:58.543
-N/A,N/A,29.1,Complete,1,N/A,N/A,N/A,N/A,00:46:03.551
-N/A,N/A,61.7,Incomplete,1,N/A,N/A,N/A,N/A,00:46:09.766
-N/A,N/A,56.4,Complete,1,N/A,N/A,N/A,N/A,00:46:19.401
-N/A,N/A,10.9,Complete,1,N/A,N/A,N/A,N/A,00:46:22.715
-N/A,N/A,12.2,Complete,1,N/A,N/A,N/A,N/A,00:46:24.082
-N/A,N/A,9.6,Complete,1,N/A,N/A,N/A,N/A,00:46:26.660
-N/A,N/A,10.4,Complete,1,N/A,N/A,N/A,N/A,00:46:29.916
-N/A,N/A,44.6,Complete,1,N/A,N/A,N/A,N/A,00:46:33.631
-N/A,N/A,12.8,Complete,1,N/A,N/A,N/A,N/A,00:46:38.153
-N/A,N/A,11.7,Complete,1,N/A,N/A,N/A,N/A,00:46:39.417
-N/A,N/A,17.6,Complete,1,N/A,N/A,N/A,N/A,00:46:40.513
-N/A,N/A,34.1,Complete,1,N/A,N/A,N/A,N/A,00:46:41.752
-N/A,N/A,53.2,Complete,1,N/A,N/A,N/A,N/A,00:46:47.824
-N/A,N/A,21.2,Complete,1,N/A,N/A,N/A,N/A,00:46:54.047
-N/A,N/A,10.9,Complete,1,N/A,N/A,N/A,N/A,00:46:55.705
-N/A,N/A,14.2,Complete,1,N/A,N/A,N/A,N/A,00:46:57.611
-N/A,N/A,5.0,Complete,2,N/A,N/A,N/A,N/A,00:00:01.023
-N/A,N/A,23.6,Complete,2,N/A,N/A,N/A,N/A,00:00:01.476
-N/A,N/A,23.2,Complete,2,N/A,N/A,N/A,N/A,00:00:03.106
-N/A,N/A,21.1,Complete,2,N/A,N/A,N/A,N/A,00:00:08.212
-N/A,N/A,24.0,Complete,2,N/A,N/A,N/A,N/A,00:00:10.696
-N/A,N/A,40.2,Incomplete,2,N/A,N/A,N/A,N/A,00:00:15.316
-N/A,N/A,17.4,Complete,2,N/A,N/A,N/A,N/A,00:00:17.984
-N/A,N/A,1.7,Incomplete,2,N/A,N/A,N/A,N/A,00:00:20.229
-N/A,N/A,24.3,Complete,2,N/A,N/A,N/A,N/A,00:00:30.421
-N/A,N/A,36.5,Complete,2,N/A,N/A,N/A,N/A,00:00:32.326
-N/A,N/A,29.7,Complete,2,N/A,N/A,N/A,N/A,00:00:35.690
-N/A,N/A,8.5,Complete,2,N/A,N/A,N/A,N/A,00:00:40.969
-N/A,N/A,7.9,Complete,2,N/A,N/A,N/A,N/A,00:00:43.804
-N/A,N/A,9.2,Complete,2,N/A,N/A,N/A,N/A,00:00:52.484
-N/A,N/A,5.1,Complete,2,N/A,N/A,N/A,N/A,00:00:54.121
-N/A,N/A,25.6,Complete,2,N/A,N/A,N/A,N/A,00:00:56.324
-N/A,N/A,13.1,Complete,2,N/A,N/A,N/A,N/A,00:00:59.107
-N/A,N/A,23.9,Complete,2,N/A,N/A,N/A,N/A,00:01:03.293
-N/A,N/A,10.7,Complete,2,N/A,N/A,N/A,N/A,00:01:06.051
-N/A,N/A,15.6,Complete,2,N/A,N/A,N/A,N/A,00:01:07.924
-N/A,N/A,38.1,Complete,2,N/A,N/A,N/A,N/A,00:01:23.056
-N/A,N/A,38.9,Complete,2,N/A,N/A,N/A,N/A,00:01:25.456
-N/A,N/A,17.6,Complete,2,N/A,N/A,N/A,N/A,00:01:32.149
-N/A,N/A,15.7,Complete,2,N/A,N/A,N/A,N/A,00:01:38.275
-N/A,N/A,51.3,Complete,2,N/A,N/A,N/A,N/A,00:01:41.391
-N/A,N/A,25.6,Complete,2,N/A,N/A,N/A,N/A,00:01:45.953
-N/A,N/A,45.9,Incomplete,2,N/A,N/A,N/A,N/A,00:02:11.733
-N/A,N/A,59.7,Complete,2,N/A,N/A,N/A,N/A,00:02:15.406
-N/A,N/A,15.5,Complete,2,N/A,N/A,N/A,N/A,00:02:23.691
-N/A,N/A,11.5,Complete,2,N/A,N/A,N/A,N/A,00:02:29.895
-N/A,N/A,19.7,Complete,2,N/A,N/A,N/A,N/A,00:03:40.154
-N/A,N/A,27.5,Complete,2,N/A,N/A,N/A,N/A,00:03:42.288
-N/A,N/A,52.0,Incomplete,2,N/A,N/A,N/A,N/A,00:03:45.691
-N/A,N/A,16.9,Complete,2,N/A,N/A,N/A,N/A,00:03:48.803
-N/A,N/A,21.1,Out,2,N/A,N/A,N/A,N/A,00:03:49.669
-N/A,N/A,23.3,Complete,2,N/A,N/A,N/A,N/A,00:03:59.763
-N/A,N/A,37.6,Complete,2,N/A,N/A,N/A,N/A,00:04:01.326
-N/A,N/A,27.1,Complete,2,N/A,N/A,N/A,N/A,00:04:05.365
-N/A,N/A,30.8,Incomplete,2,N/A,N/A,N/A,N/A,00:04:07.923
-N/A,N/A,6.4,Complete,2,N/A,N/A,N/A,N/A,00:04:11.421
-N/A,N/A,13.5,Complete,2,N/A,N/A,N/A,N/A,00:04:12.649
-N/A,N/A,17.3,Complete,2,N/A,N/A,N/A,N/A,00:04:14.761
-N/A,N/A,14.4,Complete,2,N/A,N/A,N/A,N/A,00:04:17.085
-N/A,N/A,42.7,Incomplete,2,N/A,N/A,N/A,N/A,00:04:18.382
-N/A,N/A,41.2,Complete,2,N/A,N/A,N/A,N/A,00:04:24.932
-N/A,N/A,9.9,Complete,2,N/A,N/A,N/A,N/A,00:04:32.170
-N/A,N/A,11.4,Complete,2,N/A,N/A,N/A,N/A,00:04:33.017
-N/A,N/A,33.0,Complete,2,N/A,N/A,N/A,N/A,00:04:38.978
-N/A,N/A,13.5,Incomplete,2,N/A,N/A,N/A,N/A,00:04:43.670
-N/A,N/A,4.1,Incomplete,2,N/A,N/A,N/A,N/A,00:04:49.503
-N/A,N/A,31.6,Incomplete,2,N/A,N/A,N/A,N/A,00:05:17.737
-N/A,N/A,30.6,Complete,2,N/A,N/A,N/A,N/A,00:05:22.231
-N/A,N/A,12.1,Incomplete,2,N/A,N/A,N/A,N/A,00:05:24.023
-N/A,N/A,32.0,Incomplete,2,N/A,N/A,N/A,N/A,00:05:28.890
-N/A,N/A,23.8,Complete,2,N/A,N/A,N/A,N/A,00:05:38.875
-N/A,N/A,17.2,Complete,2,N/A,N/A,N/A,N/A,00:05:41.243
-N/A,N/A,19.6,Complete,2,N/A,N/A,N/A,N/A,00:05:47.108
-N/A,N/A,32.9,Complete,2,N/A,N/A,N/A,N/A,00:05:49.942
-N/A,N/A,13.4,Complete,2,N/A,N/A,N/A,N/A,00:05:52.408
-N/A,N/A,12.8,Complete,2,N/A,N/A,N/A,N/A,00:05:54.114
-N/A,N/A,25.1,Complete,2,N/A,N/A,N/A,N/A,00:05:56.639
-N/A,N/A,14.5,Complete,2,N/A,N/A,N/A,N/A,00:06:01.067
-N/A,N/A,34.6,Complete,2,N/A,N/A,N/A,N/A,00:06:03.480
-N/A,N/A,21.0,Complete,2,N/A,N/A,N/A,N/A,00:06:56.939
-N/A,N/A,16.1,Complete,2,N/A,N/A,N/A,N/A,00:07:00.413
-N/A,N/A,2.1,Incomplete,2,N/A,N/A,N/A,N/A,00:07:08.070
-N/A,N/A,16.3,Complete,2,N/A,N/A,N/A,N/A,00:07:10.966
-N/A,N/A,13.3,Complete,2,N/A,N/A,N/A,N/A,00:07:18.740
-N/A,N/A,29.7,Out,2,N/A,N/A,N/A,N/A,00:07:20.226
-N/A,N/A,38.6,Complete,2,N/A,N/A,N/A,N/A,00:07:28.512
-N/A,N/A,21.7,Complete,2,N/A,N/A,N/A,N/A,00:07:31.741
-N/A,N/A,22.9,Incomplete,2,N/A,N/A,N/A,N/A,00:07:40.664
-N/A,N/A,15.4,Incomplete,2,N/A,N/A,N/A,N/A,00:07:44.923
-N/A,N/A,4.9,Incomplete,2,N/A,N/A,N/A,N/A,00:07:47.676
-N/A,N/A,92.9,Incomplete,2,N/A,N/A,N/A,N/A,00:08:17.258
-N/A,N/A,57.3,Incomplete,2,N/A,N/A,N/A,N/A,00:09:26.827
-N/A,N/A,66.0,Complete,2,N/A,N/A,N/A,N/A,00:09:59.487
-N/A,N/A,14.6,Complete,2,N/A,N/A,N/A,N/A,00:10:16.770
-N/A,N/A,30.2,Incomplete,2,N/A,N/A,N/A,N/A,00:10:18.829
-N/A,N/A,20.0,Complete,2,N/A,N/A,N/A,N/A,00:10:23.267
-N/A,N/A,22.7,Complete,2,N/A,N/A,N/A,N/A,00:10:27.183
-N/A,N/A,57.9,Complete,2,N/A,N/A,N/A,N/A,00:10:32.697
-N/A,N/A,12.4,Incomplete,2,N/A,N/A,N/A,N/A,00:10:35.877
-N/A,N/A,11.5,Complete,2,N/A,N/A,N/A,N/A,00:10:38.782
-N/A,N/A,26.0,Complete,2,N/A,N/A,N/A,N/A,00:10:43.953
-N/A,N/A,26.3,Complete,2,N/A,N/A,N/A,N/A,00:10:45.611
-N/A,N/A,28.1,Complete,2,N/A,N/A,N/A,N/A,00:10:48.882
-N/A,N/A,13.2,Complete,2,N/A,N/A,N/A,N/A,00:10:51.777
-N/A,N/A,9.5,Complete,2,N/A,N/A,N/A,N/A,00:10:53.150
-N/A,N/A,8.9,Complete,2,N/A,N/A,N/A,N/A,00:10:56.988
-N/A,N/A,3.3,Incomplete,2,N/A,N/A,N/A,N/A,00:10:58.675
-N/A,N/A,24.0,Unknown,2,N/A,N/A,N/A,N/A,00:11:00.691
-N/A,N/A,40.4,Complete,2,N/A,N/A,N/A,N/A,00:11:23.672
-N/A,N/A,4.0,Complete,2,N/A,N/A,N/A,N/A,00:11:26.131
-N/A,N/A,4.7,Complete,2,N/A,N/A,N/A,N/A,00:11:27.183
-N/A,N/A,11.8,Complete,2,N/A,N/A,N/A,N/A,00:11:28.062
-N/A,N/A,10.0,Complete,2,N/A,N/A,N/A,N/A,00:11:30.127
-N/A,N/A,40.5,Out,2,N/A,N/A,N/A,N/A,00:11:30.928
-N/A,N/A,9.9,Complete,2,N/A,N/A,N/A,N/A,00:11:47.116
-N/A,N/A,11.9,Complete,2,N/A,N/A,N/A,N/A,00:11:49.091
-N/A,N/A,23.0,Complete,2,N/A,N/A,N/A,N/A,00:11:52.127
-N/A,N/A,71.6,Incomplete,2,N/A,N/A,N/A,N/A,00:11:54.954
-N/A,N/A,54.8,Incomplete,2,N/A,N/A,N/A,N/A,00:12:08.841
-N/A,N/A,18.4,Complete,2,N/A,N/A,N/A,N/A,00:12:14.006
-N/A,N/A,23.6,Complete,2,N/A,N/A,N/A,N/A,00:12:16.110
-N/A,N/A,14.7,Complete,2,N/A,N/A,N/A,N/A,00:12:20.556
-N/A,N/A,14.7,Complete,2,N/A,N/A,N/A,N/A,00:12:25.390
-N/A,N/A,29.0,Complete,2,N/A,N/A,N/A,N/A,00:12:26.787
-N/A,N/A,24.1,Complete,2,N/A,N/A,N/A,N/A,00:12:31.638
-N/A,N/A,25.7,Incomplete,2,N/A,N/A,N/A,N/A,00:12:36.145
-N/A,N/A,14.0,Incomplete,2,N/A,N/A,N/A,N/A,00:12:37.500
-N/A,N/A,28.6,Complete,2,N/A,N/A,N/A,N/A,00:12:39.573
-N/A,N/A,12.2,Incomplete,2,N/A,N/A,N/A,N/A,00:12:44.446
-N/A,N/A,10.0,Incomplete,2,N/A,N/A,N/A,N/A,00:12:46.295
-N/A,N/A,16.2,Incomplete,2,N/A,N/A,N/A,N/A,00:12:47.640
-N/A,N/A,20.8,Complete,2,N/A,N/A,N/A,N/A,00:12:49.862
-N/A,N/A,18.5,Complete,2,N/A,N/A,N/A,N/A,00:12:57.341
-N/A,N/A,17.7,Complete,2,N/A,N/A,N/A,N/A,00:13:00.760
-N/A,N/A,59.6,Complete,2,N/A,N/A,N/A,N/A,00:13:03.595
-N/A,N/A,42.5,Incomplete,2,N/A,N/A,N/A,N/A,00:13:08.072
-N/A,N/A,18.3,Incomplete,2,N/A,N/A,N/A,N/A,00:13:12.830
-N/A,N/A,16.5,Complete,2,N/A,N/A,N/A,N/A,00:13:15.073
-N/A,N/A,55.1,Complete,2,N/A,N/A,N/A,N/A,00:13:18.712
-N/A,N/A,5.0,Incomplete,2,N/A,N/A,N/A,N/A,00:13:22.883
-N/A,N/A,13.1,Complete,2,N/A,N/A,N/A,N/A,00:13:24.843
-N/A,N/A,5.2,Incomplete,2,N/A,N/A,N/A,N/A,00:13:26.442
-N/A,N/A,14.5,Complete,2,N/A,N/A,N/A,N/A,00:13:34.357
-N/A,N/A,15.2,Complete,2,N/A,N/A,N/A,N/A,00:13:37.454
-N/A,N/A,14.9,Complete,2,N/A,N/A,N/A,N/A,00:13:39.262
-N/A,N/A,25.6,Incomplete,2,N/A,N/A,N/A,N/A,00:13:42.739
-N/A,N/A,23.6,Complete,2,N/A,N/A,N/A,N/A,00:13:44.093
-N/A,N/A,13.4,Complete,2,N/A,N/A,N/A,N/A,00:13:48.185
-N/A,N/A,31.4,Complete,2,N/A,N/A,N/A,N/A,00:13:52.142
-N/A,N/A,10.4,Complete,2,N/A,N/A,N/A,N/A,00:13:55.193
-N/A,N/A,15.3,Complete,2,N/A,N/A,N/A,N/A,00:13:59.190
-N/A,N/A,29.0,Complete,2,N/A,N/A,N/A,N/A,00:14:01.718
-N/A,N/A,21.9,Complete,2,N/A,N/A,N/A,N/A,00:14:05.587
-N/A,N/A,12.4,Complete,2,N/A,N/A,N/A,N/A,00:14:08.463
-N/A,N/A,6.5,Complete,2,N/A,N/A,N/A,N/A,00:14:09.703
-N/A,N/A,8.3,Complete,2,N/A,N/A,N/A,N/A,00:14:12.513
-N/A,N/A,6.8,Complete,2,N/A,N/A,N/A,N/A,00:14:13.717
-N/A,N/A,9.9,Incomplete,2,N/A,N/A,N/A,N/A,00:14:15.290
-N/A,N/A,5.8,Complete,2,N/A,N/A,N/A,N/A,00:14:16.671
-N/A,N/A,9.1,Complete,2,N/A,N/A,N/A,N/A,00:14:17.601
-N/A,N/A,22.5,Complete,2,N/A,N/A,N/A,N/A,00:14:19.732
-N/A,N/A,7.9,Complete,2,N/A,N/A,N/A,N/A,00:14:21.709
-N/A,N/A,38.7,Complete,2,N/A,N/A,N/A,N/A,00:14:22.902
-N/A,N/A,62.5,Complete,2,N/A,N/A,N/A,N/A,00:16:11.608
-N/A,N/A,7.5,Complete,2,N/A,N/A,N/A,N/A,00:16:16.991
-N/A,N/A,8.2,Complete,2,N/A,N/A,N/A,N/A,00:16:18.532
-N/A,N/A,15.8,Complete,2,N/A,N/A,N/A,N/A,00:16:19.175
-N/A,N/A,40.1,Incomplete,2,N/A,N/A,N/A,N/A,00:16:21.643
-N/A,N/A,15.9,Complete,2,N/A,N/A,N/A,N/A,00:16:26.936
-N/A,N/A,25.2,Complete,2,N/A,N/A,N/A,N/A,00:16:30.856
-N/A,N/A,19.5,Complete,2,N/A,N/A,N/A,N/A,00:16:34.934
-N/A,N/A,15.8,Complete,2,N/A,N/A,N/A,N/A,00:16:39.724
-N/A,N/A,11.9,Complete,2,N/A,N/A,N/A,N/A,00:16:45.122
-N/A,N/A,27.3,Complete,2,N/A,N/A,N/A,N/A,00:16:46.463
-N/A,N/A,39.7,Incomplete,2,N/A,N/A,N/A,N/A,00:16:52.122
-N/A,N/A,21.1,Incomplete,2,N/A,N/A,N/A,N/A,00:16:54.070
-N/A,N/A,14.4,Complete,2,N/A,N/A,N/A,N/A,00:16:55.751
-N/A,N/A,10.5,Complete,2,N/A,N/A,N/A,N/A,00:16:59.557
-N/A,N/A,5.1,Incomplete,2,N/A,N/A,N/A,N/A,00:17:02.217
-N/A,N/A,12.5,Complete,2,N/A,N/A,N/A,N/A,00:17:10.103
-N/A,N/A,6.2,Complete,2,N/A,N/A,N/A,N/A,00:17:11.179
-N/A,N/A,5.4,Incomplete,2,N/A,N/A,N/A,N/A,00:17:15.015
-N/A,N/A,47.3,Incomplete,2,N/A,N/A,N/A,N/A,00:17:17.605
-N/A,N/A,11.9,Incomplete,2,N/A,N/A,N/A,N/A,00:17:20.915
-N/A,N/A,7.0,Incomplete,2,N/A,N/A,N/A,N/A,00:17:23.050
-N/A,N/A,13.8,Complete,2,N/A,N/A,N/A,N/A,00:17:25.442
-N/A,N/A,11.4,Complete,2,N/A,N/A,N/A,N/A,00:17:35.828
-N/A,N/A,38.8,Complete,2,N/A,N/A,N/A,N/A,00:17:36.631
-N/A,N/A,25.7,Complete,2,N/A,N/A,N/A,N/A,00:17:42.478
-N/A,N/A,9.1,Incomplete,2,N/A,N/A,N/A,N/A,00:17:46.940
-N/A,N/A,8.9,Complete,2,N/A,N/A,N/A,N/A,00:17:47.943
-N/A,N/A,6.6,Complete,2,N/A,N/A,N/A,N/A,00:17:49.938
-N/A,N/A,21.7,Complete,2,N/A,N/A,N/A,N/A,00:17:51.232
-N/A,N/A,8.9,Complete,2,N/A,N/A,N/A,N/A,00:17:52.850
-N/A,N/A,39.7,Complete,2,N/A,N/A,N/A,N/A,00:18:02.191
-N/A,N/A,36.9,Incomplete,2,N/A,N/A,N/A,N/A,00:18:10.956
-N/A,N/A,16.6,Complete,2,N/A,N/A,N/A,N/A,00:18:14.647
-N/A,N/A,15.0,Incomplete,2,N/A,N/A,N/A,N/A,00:18:15.951
-N/A,N/A,11.2,Complete,2,N/A,N/A,N/A,N/A,00:18:19.278
-N/A,N/A,14.6,Incomplete,2,N/A,N/A,N/A,N/A,00:18:20.518
-N/A,N/A,51.5,Complete,2,N/A,N/A,N/A,N/A,00:18:42.081
-N/A,N/A,16.2,Incomplete,2,N/A,N/A,N/A,N/A,00:18:46.377
-N/A,N/A,12.1,Incomplete,2,N/A,N/A,N/A,N/A,00:18:47.672
-N/A,N/A,20.7,Incomplete,2,N/A,N/A,N/A,N/A,00:18:48.673
-N/A,N/A,9.8,Complete,2,N/A,N/A,N/A,N/A,00:18:50.287
-N/A,N/A,12.9,Complete,2,N/A,N/A,N/A,N/A,00:18:51.719
-N/A,N/A,16.3,Complete,2,N/A,N/A,N/A,N/A,00:18:55.586
-N/A,N/A,7.8,Complete,2,N/A,N/A,N/A,N/A,00:18:59.482
-N/A,N/A,17.6,Complete,2,N/A,N/A,N/A,N/A,00:19:00.099
-N/A,N/A,13.9,Complete,2,N/A,N/A,N/A,N/A,00:19:04.184
-N/A,N/A,5.1,Incomplete,2,N/A,N/A,N/A,N/A,00:19:06.814
-N/A,N/A,27.7,Incomplete,2,N/A,N/A,N/A,N/A,00:19:19.497
-N/A,N/A,9.7,Complete,2,N/A,N/A,N/A,N/A,00:19:21.826
-N/A,N/A,13.6,Incomplete,2,N/A,N/A,N/A,N/A,00:19:22.792
-N/A,N/A,22.6,Complete,2,N/A,N/A,N/A,N/A,00:19:49.087
-N/A,N/A,41.6,Incomplete,2,N/A,N/A,N/A,N/A,00:19:49.430
-N/A,N/A,15.1,Complete,2,N/A,N/A,N/A,N/A,00:19:51.616
-N/A,N/A,29.3,Complete,2,N/A,N/A,N/A,N/A,00:19:54.048
-N/A,N/A,13.8,Complete,2,N/A,N/A,N/A,N/A,00:19:59.393
-N/A,N/A,42.5,Incomplete,2,N/A,N/A,N/A,N/A,00:20:00.789
-N/A,N/A,24.3,Incomplete,2,N/A,N/A,N/A,N/A,00:20:11.480
-N/A,N/A,14.3,Complete,2,N/A,N/A,N/A,N/A,00:20:25.492
-N/A,N/A,16.4,Complete,2,N/A,N/A,N/A,N/A,00:20:32.066
-N/A,N/A,15.6,Complete,2,N/A,N/A,N/A,N/A,00:20:34.926
-N/A,N/A,35.3,Complete,2,N/A,N/A,N/A,N/A,00:20:36.928
-N/A,N/A,36.5,Complete,2,N/A,N/A,N/A,N/A,00:20:40.476
-N/A,N/A,47.9,Complete,2,N/A,N/A,N/A,N/A,00:20:46.144
-N/A,N/A,53.2,Incomplete,2,N/A,N/A,N/A,N/A,00:21:25.681
-N/A,N/A,36.8,Incomplete,2,N/A,N/A,N/A,N/A,00:21:30.215
-N/A,N/A,25.3,Complete,2,N/A,N/A,N/A,N/A,00:21:35.651
-N/A,N/A,22.4,Complete,2,N/A,N/A,N/A,N/A,00:21:39.726
-N/A,N/A,37.1,Incomplete,2,N/A,N/A,N/A,N/A,00:21:44.434
-N/A,N/A,19.8,Complete,2,N/A,N/A,N/A,N/A,00:21:50.709
-N/A,N/A,18.7,Complete,2,N/A,N/A,N/A,N/A,00:21:54.534
-N/A,N/A,37.6,Complete,2,N/A,N/A,N/A,N/A,00:21:57.364
-N/A,N/A,43.2,Pass Offside,2,N/A,N/A,N/A,N/A,00:22:01.515
-N/A,N/A,58.6,Complete,2,N/A,N/A,N/A,N/A,00:22:27.045
-N/A,N/A,21.1,Incomplete,2,N/A,N/A,N/A,N/A,00:22:29.690
-N/A,N/A,13.5,Complete,2,N/A,N/A,N/A,N/A,00:22:33.912
-N/A,N/A,23.5,Complete,2,N/A,N/A,N/A,N/A,00:22:46.370
-N/A,N/A,19.3,Complete,2,N/A,N/A,N/A,N/A,00:22:57.910
-N/A,N/A,45.9,Complete,2,N/A,N/A,N/A,N/A,00:22:58.638
-N/A,N/A,18.1,Complete,2,N/A,N/A,N/A,N/A,00:23:02.630
-N/A,N/A,14.2,Complete,2,N/A,N/A,N/A,N/A,00:23:04.494
-N/A,N/A,10.2,Complete,2,N/A,N/A,N/A,N/A,00:23:05.837
-N/A,N/A,12.6,Incomplete,2,N/A,N/A,N/A,N/A,00:23:08.421
-N/A,N/A,18.5,Complete,2,N/A,N/A,N/A,N/A,00:23:10.153
-N/A,N/A,7.4,Incomplete,2,N/A,N/A,N/A,N/A,00:23:15.392
-N/A,N/A,36.1,Complete,2,N/A,N/A,N/A,N/A,00:23:17.704
-N/A,N/A,53.7,Incomplete,2,N/A,N/A,N/A,N/A,00:23:24.474
-N/A,N/A,23.1,Complete,2,N/A,N/A,N/A,N/A,00:23:27.592
-N/A,N/A,13.7,Complete,2,N/A,N/A,N/A,N/A,00:23:30.168
-N/A,N/A,12.8,Complete,2,N/A,N/A,N/A,N/A,00:23:31.804
-N/A,N/A,15.5,Injury Clearance,2,N/A,N/A,N/A,N/A,00:23:36.693
-N/A,N/A,15.1,Complete,2,N/A,N/A,N/A,N/A,00:23:53.935
-N/A,N/A,14.8,Injury Clearance,2,N/A,N/A,N/A,N/A,00:23:54.058
-N/A,N/A,25.2,Incomplete,2,N/A,N/A,N/A,N/A,00:24:05.433
-N/A,N/A,3.7,Complete,2,N/A,N/A,N/A,N/A,00:24:09.218
-N/A,N/A,12.5,Incomplete,2,N/A,N/A,N/A,N/A,00:24:14.708
-N/A,N/A,8.0,Complete,2,N/A,N/A,N/A,N/A,00:24:15.661
-N/A,N/A,101.4,Complete,2,N/A,N/A,N/A,N/A,00:24:39.263
-N/A,N/A,12.5,Complete,2,N/A,N/A,N/A,N/A,00:25:14.721
-N/A,N/A,8.7,Complete,2,N/A,N/A,N/A,N/A,00:25:18.286
-N/A,N/A,13.3,Complete,2,N/A,N/A,N/A,N/A,00:25:20.544
-N/A,N/A,28.0,Complete,2,N/A,N/A,N/A,N/A,00:25:23.949
-N/A,N/A,13.5,Complete,2,N/A,N/A,N/A,N/A,00:25:25.518
-N/A,N/A,9.3,Incomplete,2,N/A,N/A,N/A,N/A,00:25:26.731
-N/A,N/A,3.4,Complete,2,N/A,N/A,N/A,N/A,00:25:27.697
-N/A,N/A,11.1,Complete,2,N/A,N/A,N/A,N/A,00:25:33.309
-N/A,N/A,19.3,Complete,2,N/A,N/A,N/A,N/A,00:25:34.151
-N/A,N/A,27.9,Complete,2,N/A,N/A,N/A,N/A,00:25:36.732
-N/A,N/A,23.8,Complete,2,N/A,N/A,N/A,N/A,00:25:40.769
-N/A,N/A,62.9,Out,2,N/A,N/A,N/A,N/A,00:26:38.224
-N/A,N/A,68.1,Complete,2,N/A,N/A,N/A,N/A,00:27:09.341
-N/A,N/A,14.6,Complete,2,N/A,N/A,N/A,N/A,00:27:12.899
-N/A,N/A,4.8,Complete,2,N/A,N/A,N/A,N/A,00:27:14.283
-N/A,N/A,17.7,Complete,2,N/A,N/A,N/A,N/A,00:27:15.001
-N/A,N/A,23.2,Complete,2,N/A,N/A,N/A,N/A,00:27:18.639
-N/A,N/A,14.5,Complete,2,N/A,N/A,N/A,N/A,00:27:21.719
-N/A,N/A,18.6,Complete,2,N/A,N/A,N/A,N/A,00:27:36.577
-N/A,N/A,5.4,Incomplete,2,N/A,N/A,N/A,N/A,00:27:37.970
-N/A,N/A,36.7,Complete,2,N/A,N/A,N/A,N/A,00:27:40.389
-N/A,N/A,21.3,Complete,2,N/A,N/A,N/A,N/A,00:27:42.433
-N/A,N/A,8.0,Complete,2,N/A,N/A,N/A,N/A,00:27:52.971
-N/A,N/A,7.8,Complete,2,N/A,N/A,N/A,N/A,00:27:55.305
-N/A,N/A,10.7,Complete,2,N/A,N/A,N/A,N/A,00:27:56.442
-N/A,N/A,20.8,Complete,2,N/A,N/A,N/A,N/A,00:27:58.440
-N/A,N/A,27.9,Complete,2,N/A,N/A,N/A,N/A,00:28:00.113
-N/A,N/A,77.2,Incomplete,2,N/A,N/A,N/A,N/A,00:28:04.471
-N/A,N/A,12.6,Complete,2,N/A,N/A,N/A,N/A,00:28:18.731
-N/A,N/A,10.2,Complete,2,N/A,N/A,N/A,N/A,00:28:19.315
-N/A,N/A,9.1,Complete,2,N/A,N/A,N/A,N/A,00:28:20.155
-N/A,N/A,8.8,Complete,2,N/A,N/A,N/A,N/A,00:28:21.308
-N/A,N/A,26.5,Complete,2,N/A,N/A,N/A,N/A,00:28:22.039
-N/A,N/A,12.1,Complete,2,N/A,N/A,N/A,N/A,00:28:25.287
-N/A,N/A,12.5,Complete,2,N/A,N/A,N/A,N/A,00:28:27.909
-N/A,N/A,12.8,Complete,2,N/A,N/A,N/A,N/A,00:28:29.183
-N/A,N/A,10.5,Complete,2,N/A,N/A,N/A,N/A,00:28:30.506
-N/A,N/A,1.3,Incomplete,2,N/A,N/A,N/A,N/A,00:28:31.315
-N/A,N/A,20.1,Incomplete,2,N/A,N/A,N/A,N/A,00:28:34.389
-N/A,N/A,0.3,Incomplete,2,N/A,N/A,N/A,N/A,00:28:39.880
-N/A,N/A,36.5,Complete,2,N/A,N/A,N/A,N/A,00:28:54.467
-N/A,N/A,8.8,Complete,2,N/A,N/A,N/A,N/A,00:28:55.903
-N/A,N/A,23.6,Complete,2,N/A,N/A,N/A,N/A,00:28:58.637
-N/A,N/A,28.9,Incomplete,2,N/A,N/A,N/A,N/A,00:29:02.107
-N/A,N/A,14.2,Complete,2,N/A,N/A,N/A,N/A,00:29:05.350
-N/A,N/A,8.4,Incomplete,2,N/A,N/A,N/A,N/A,00:29:09.422
-N/A,N/A,24.0,Incomplete,2,N/A,N/A,N/A,N/A,00:29:17.131
-N/A,N/A,13.9,Complete,2,N/A,N/A,N/A,N/A,00:29:22.697
-N/A,N/A,14.0,Out,2,N/A,N/A,N/A,N/A,00:29:25.275
-N/A,N/A,14.5,Complete,2,N/A,N/A,N/A,N/A,00:29:32.809
-N/A,N/A,17.1,Complete,2,N/A,N/A,N/A,N/A,00:29:33.900
-N/A,N/A,24.9,Complete,2,N/A,N/A,N/A,N/A,00:30:01.185
-N/A,N/A,13.0,Incomplete,2,N/A,N/A,N/A,N/A,00:30:02.951
-N/A,N/A,28.8,Complete,2,N/A,N/A,N/A,N/A,00:30:04.183
-N/A,N/A,52.2,Complete,2,N/A,N/A,N/A,N/A,00:30:08.979
-N/A,N/A,8.6,Incomplete,2,N/A,N/A,N/A,N/A,00:30:27.444
-N/A,N/A,6.7,Complete,2,N/A,N/A,N/A,N/A,00:30:30.038
-N/A,N/A,16.2,Complete,2,N/A,N/A,N/A,N/A,00:30:33.439
-N/A,N/A,45.4,Complete,2,N/A,N/A,N/A,N/A,00:30:36.005
-N/A,N/A,11.6,Incomplete,2,N/A,N/A,N/A,N/A,00:30:47.470
-N/A,N/A,14.1,Complete,2,N/A,N/A,N/A,N/A,00:30:51.279
-N/A,N/A,12.0,Complete,2,N/A,N/A,N/A,N/A,00:30:53.760
-N/A,N/A,18.0,Complete,2,N/A,N/A,N/A,N/A,00:30:55.631
-N/A,N/A,25.0,Complete,2,N/A,N/A,N/A,N/A,00:30:59.787
-N/A,N/A,1.8,Incomplete,2,N/A,N/A,N/A,N/A,00:31:02.711
-N/A,N/A,30.1,Complete,2,N/A,N/A,N/A,N/A,00:31:07.545
-N/A,N/A,9.4,Complete,2,N/A,N/A,N/A,N/A,00:31:09.703
-N/A,N/A,12.0,Complete,2,N/A,N/A,N/A,N/A,00:31:15.072
-N/A,N/A,16.9,Complete,2,N/A,N/A,N/A,N/A,00:31:16.151
-N/A,N/A,46.8,Complete,2,N/A,N/A,N/A,N/A,00:31:19.376
-N/A,N/A,45.7,Incomplete,2,N/A,N/A,N/A,N/A,00:31:53.596
-N/A,N/A,33.2,Incomplete,2,N/A,N/A,N/A,N/A,00:32:33.914
-N/A,N/A,8.8,Complete,2,N/A,N/A,N/A,N/A,00:32:39.077
-N/A,N/A,58.1,Complete,2,N/A,N/A,N/A,N/A,00:32:41.080
-N/A,N/A,64.4,Complete,2,N/A,N/A,N/A,N/A,00:32:45.795
-N/A,N/A,4.2,Complete,2,N/A,N/A,N/A,N/A,00:32:49.422
-N/A,N/A,35.4,Incomplete,2,N/A,N/A,N/A,N/A,00:33:34.714
-N/A,N/A,9.4,Complete,2,N/A,N/A,N/A,N/A,00:33:38.354
-N/A,N/A,35.1,Incomplete,2,N/A,N/A,N/A,N/A,00:33:41.113
-N/A,N/A,67.2,Incomplete,2,N/A,N/A,N/A,N/A,00:33:46.478
-N/A,N/A,49.7,Pass Offside,2,N/A,N/A,N/A,N/A,00:33:52.922
-N/A,N/A,40.5,Complete,2,N/A,N/A,N/A,N/A,00:34:03.346
-N/A,N/A,15.1,Incomplete,2,N/A,N/A,N/A,N/A,00:34:07.307
-N/A,N/A,11.3,Complete,2,N/A,N/A,N/A,N/A,00:34:09.313
-N/A,N/A,36.3,Complete,2,N/A,N/A,N/A,N/A,00:34:10.604
-N/A,N/A,50.0,Out,2,N/A,N/A,N/A,N/A,00:34:14.424
-N/A,N/A,13.3,Complete,2,N/A,N/A,N/A,N/A,00:34:21.954
-N/A,N/A,13.7,Out,2,N/A,N/A,N/A,N/A,00:34:22.317
-N/A,N/A,26.9,Complete,2,N/A,N/A,N/A,N/A,00:34:46.004
-N/A,N/A,12.7,Incomplete,2,N/A,N/A,N/A,N/A,00:34:47.490
-N/A,N/A,9.8,Complete,2,N/A,N/A,N/A,N/A,00:34:49.639
-N/A,N/A,29.6,Complete,2,N/A,N/A,N/A,N/A,00:34:50.487
-N/A,N/A,21.6,Complete,2,N/A,N/A,N/A,N/A,00:34:52.108
-N/A,N/A,7.7,Complete,2,N/A,N/A,N/A,N/A,00:34:55.680
-N/A,N/A,26.0,Incomplete,2,N/A,N/A,N/A,N/A,00:34:56.906
-N/A,N/A,20.0,Out,2,N/A,N/A,N/A,N/A,00:34:59.018
-N/A,N/A,14.5,Complete,2,N/A,N/A,N/A,N/A,00:35:04.792
-N/A,N/A,43.9,Complete,2,N/A,N/A,N/A,N/A,00:35:08.339
-N/A,N/A,20.8,Complete,2,N/A,N/A,N/A,N/A,00:35:11.509
-N/A,N/A,15.3,Complete,2,N/A,N/A,N/A,N/A,00:35:20.502
-N/A,N/A,24.5,Incomplete,2,N/A,N/A,N/A,N/A,00:35:22.066
-N/A,N/A,23.2,Complete,2,N/A,N/A,N/A,N/A,00:35:26.111
-N/A,N/A,33.3,Incomplete,2,N/A,N/A,N/A,N/A,00:35:32.611
-N/A,N/A,9.9,Complete,2,N/A,N/A,N/A,N/A,00:35:37.031
-N/A,N/A,18.9,Complete,2,N/A,N/A,N/A,N/A,00:35:37.648
-N/A,N/A,13.6,Complete,2,N/A,N/A,N/A,N/A,00:35:39.353
-N/A,N/A,39.2,Complete,2,N/A,N/A,N/A,N/A,00:35:44.410
-N/A,N/A,26.1,Incomplete,2,N/A,N/A,N/A,N/A,00:35:49.466
-N/A,N/A,57.1,Incomplete,2,N/A,N/A,N/A,N/A,00:35:56.463
-N/A,N/A,28.1,Unknown,2,N/A,N/A,N/A,N/A,00:35:59.637
-N/A,N/A,30.4,Incomplete,2,N/A,N/A,N/A,N/A,00:36:57.110
-N/A,N/A,11.1,Incomplete,2,N/A,N/A,N/A,N/A,00:37:00.670
-N/A,N/A,12.9,Complete,2,N/A,N/A,N/A,N/A,00:37:03.281
-N/A,N/A,31.9,Incomplete,2,N/A,N/A,N/A,N/A,00:37:05.994
-N/A,N/A,24.2,Complete,2,N/A,N/A,N/A,N/A,00:37:11.653
-N/A,N/A,15.8,Complete,2,N/A,N/A,N/A,N/A,00:37:14.981
-N/A,N/A,62.6,Incomplete,2,N/A,N/A,N/A,N/A,00:37:17.163
-N/A,N/A,25.2,Complete,2,N/A,N/A,N/A,N/A,00:37:22.951
-N/A,N/A,28.9,Complete,2,N/A,N/A,N/A,N/A,00:37:28.058
-N/A,N/A,51.2,Complete,2,N/A,N/A,N/A,N/A,00:37:31.957
-N/A,N/A,23.4,Complete,2,N/A,N/A,N/A,N/A,00:37:38.267
-N/A,N/A,16.7,Complete,2,N/A,N/A,N/A,N/A,00:37:40.942
-N/A,N/A,11.5,Complete,2,N/A,N/A,N/A,N/A,00:37:44.694
-N/A,N/A,49.6,Incomplete,2,N/A,N/A,N/A,N/A,00:38:15.571
-N/A,N/A,0.9,Incomplete,2,N/A,N/A,N/A,N/A,00:38:20.690
-N/A,N/A,3.5,Incomplete,2,N/A,N/A,N/A,N/A,00:38:21.485
-N/A,N/A,26.4,Incomplete,2,N/A,N/A,N/A,N/A,00:38:23.015
-N/A,N/A,23.6,Incomplete,2,N/A,N/A,N/A,N/A,00:38:24.736
-N/A,N/A,14.3,Complete,2,N/A,N/A,N/A,N/A,00:38:27.477
-N/A,N/A,1.4,Incomplete,2,N/A,N/A,N/A,N/A,00:38:28.557
-N/A,N/A,13.4,Complete,2,N/A,N/A,N/A,N/A,00:38:30.492
-N/A,N/A,14.3,Complete,2,N/A,N/A,N/A,N/A,00:38:31.259
-N/A,N/A,18.8,Complete,2,N/A,N/A,N/A,N/A,00:38:32.293
-N/A,N/A,48.4,Incomplete,2,N/A,N/A,N/A,N/A,00:38:34.750
-N/A,N/A,10.1,Incomplete,2,N/A,N/A,N/A,N/A,00:38:36.804
-N/A,N/A,4.1,Incomplete,2,N/A,N/A,N/A,N/A,00:38:40.472
-N/A,N/A,20.1,Complete,2,N/A,N/A,N/A,N/A,00:38:53.940
-N/A,N/A,15.0,Complete,2,N/A,N/A,N/A,N/A,00:38:55.891
-N/A,N/A,9.8,Incomplete,2,N/A,N/A,N/A,N/A,00:38:58.663
-N/A,N/A,40.0,Out,2,N/A,N/A,N/A,N/A,00:39:02.603
-N/A,N/A,15.6,Complete,2,N/A,N/A,N/A,N/A,00:39:16.508
-N/A,N/A,10.2,Complete,2,N/A,N/A,N/A,N/A,00:39:17.713
-N/A,N/A,14.4,Complete,2,N/A,N/A,N/A,N/A,00:39:19.063
-N/A,N/A,25.5,Out,2,N/A,N/A,N/A,N/A,00:39:22.410
-N/A,N/A,20.9,Complete,2,N/A,N/A,N/A,N/A,00:39:33.608
-N/A,N/A,68.2,Complete,2,N/A,N/A,N/A,N/A,00:39:35.009
-N/A,N/A,17.6,Complete,2,N/A,N/A,N/A,N/A,00:39:37.854
-N/A,N/A,2.4,Incomplete,2,N/A,N/A,N/A,N/A,00:39:43.701
-N/A,N/A,45.5,Incomplete,2,N/A,N/A,N/A,N/A,00:40:18.668
-N/A,N/A,13.9,Complete,2,N/A,N/A,N/A,N/A,00:40:19.868
-N/A,N/A,12.5,Complete,2,N/A,N/A,N/A,N/A,00:40:24.549
-N/A,N/A,3.7,Incomplete,2,N/A,N/A,N/A,N/A,00:40:26.130
-N/A,N/A,50.0,Complete,2,N/A,N/A,N/A,N/A,00:41:00.242
-N/A,N/A,8.4,Complete,2,N/A,N/A,N/A,N/A,00:41:03.097
-N/A,N/A,12.3,Incomplete,2,N/A,N/A,N/A,N/A,00:41:04.861
-N/A,N/A,0.0,Complete,2,N/A,N/A,N/A,N/A,00:41:05.892
-N/A,N/A,10.3,Incomplete,2,N/A,N/A,N/A,N/A,00:41:06.470
-N/A,N/A,54.6,Incomplete,2,N/A,N/A,N/A,N/A,00:41:07.963
-N/A,N/A,18.7,Incomplete,2,N/A,N/A,N/A,N/A,00:41:15.432
-N/A,N/A,34.4,Complete,2,N/A,N/A,N/A,N/A,00:41:19.729
-N/A,N/A,30.5,Incomplete,2,N/A,N/A,N/A,N/A,00:41:23.517
-N/A,N/A,12.2,Complete,2,N/A,N/A,N/A,N/A,00:41:34.851
-N/A,N/A,9.0,Complete,2,N/A,N/A,N/A,N/A,00:41:35.726
-N/A,N/A,8.0,Complete,2,N/A,N/A,N/A,N/A,00:41:38.402
-N/A,N/A,10.5,Complete,2,N/A,N/A,N/A,N/A,00:41:40.958
-N/A,N/A,14.2,Complete,2,N/A,N/A,N/A,N/A,00:41:50.162
-N/A,N/A,3.3,Incomplete,2,N/A,N/A,N/A,N/A,00:41:52.373
-N/A,N/A,12.6,Complete,2,N/A,N/A,N/A,N/A,00:42:04.870
-N/A,N/A,12.9,Complete,2,N/A,N/A,N/A,N/A,00:42:06.499
-N/A,N/A,38.9,Incomplete,2,N/A,N/A,N/A,N/A,00:42:07.949
-N/A,N/A,49.1,Incomplete,2,N/A,N/A,N/A,N/A,00:42:21.623
-N/A,N/A,20.2,Incomplete,2,N/A,N/A,N/A,N/A,00:42:24.637
-N/A,N/A,21.2,Unknown,2,N/A,N/A,N/A,N/A,00:42:27.300
-N/A,N/A,57.3,Out,2,N/A,N/A,N/A,N/A,00:42:55.652
-N/A,N/A,12.4,Complete,2,N/A,N/A,N/A,N/A,00:43:01.814
-N/A,N/A,28.3,Complete,2,N/A,N/A,N/A,N/A,00:43:07.308
-N/A,N/A,26.2,Complete,2,N/A,N/A,N/A,N/A,00:43:13.103
-N/A,N/A,45.4,Pass Offside,2,N/A,N/A,N/A,N/A,00:43:16.413
-N/A,N/A,58.4,Complete,2,N/A,N/A,N/A,N/A,00:43:28.658
-N/A,N/A,25.7,Complete,2,N/A,N/A,N/A,N/A,00:43:31.522
-N/A,N/A,10.3,Complete,2,N/A,N/A,N/A,N/A,00:43:35.829
-N/A,N/A,17.8,Complete,2,N/A,N/A,N/A,N/A,00:43:38.374
-N/A,N/A,10.1,Incomplete,2,N/A,N/A,N/A,N/A,00:43:40.523
-N/A,N/A,25.7,Incomplete,2,N/A,N/A,N/A,N/A,00:43:41.036
-N/A,N/A,22.3,Complete,2,N/A,N/A,N/A,N/A,00:43:47.742
-N/A,N/A,14.2,Complete,2,N/A,N/A,N/A,N/A,00:43:51.803
-N/A,N/A,1.0,Incomplete,2,N/A,N/A,N/A,N/A,00:43:52.960
-N/A,N/A,42.4,Complete,2,N/A,N/A,N/A,N/A,00:44:19.971
-N/A,N/A,27.6,Out,2,N/A,N/A,N/A,N/A,00:44:24.503
-N/A,N/A,64.4,Complete,2,N/A,N/A,N/A,N/A,00:44:54.384
-N/A,N/A,5.8,Incomplete,2,N/A,N/A,N/A,N/A,00:44:57.711
-N/A,N/A,61.9,Unknown,2,N/A,N/A,N/A,N/A,00:45:01.330
-N/A,N/A,60.1,Complete,2,N/A,N/A,N/A,N/A,00:45:20.512
-N/A,N/A,19.4,Incomplete,2,N/A,N/A,N/A,N/A,00:45:24.064
-N/A,N/A,9.5,Complete,2,N/A,N/A,N/A,N/A,00:45:30.168
-N/A,N/A,39.8,Pass Offside,2,N/A,N/A,N/A,N/A,00:45:31.594
-N/A,N/A,61.8,Unknown,2,N/A,N/A,N/A,N/A,00:45:51.816
-N/A,N/A,60.1,Complete,2,N/A,N/A,N/A,N/A,00:46:42.021
-N/A,N/A,15.8,Complete,2,N/A,N/A,N/A,N/A,00:46:45.173
-N/A,N/A,10.3,Complete,2,N/A,N/A,N/A,N/A,00:46:53.003
-N/A,N/A,13.3,Complete,2,N/A,N/A,N/A,N/A,00:46:53.788
-N/A,N/A,0.3,Incomplete,2,N/A,N/A,N/A,N/A,00:46:54.714
-N/A,N/A,18.8,Unknown,2,N/A,N/A,N/A,N/A,00:47:15.069
-N/A,N/A,67.7,Incomplete,2,N/A,N/A,N/A,N/A,00:47:24.415
-N/A,N/A,14.9,Complete,2,N/A,N/A,N/A,N/A,00:47:27.573
-N/A,N/A,6.8,Incomplete,2,N/A,N/A,N/A,N/A,00:47:29.631
-N/A,N/A,14.2,Complete,2,N/A,N/A,N/A,N/A,00:47:30.642
-N/A,N/A,19.3,Complete,2,N/A,N/A,N/A,N/A,00:47:33.657
-N/A,N/A,38.7,Complete,2,N/A,N/A,N/A,N/A,00:47:37.354
-N/A,N/A,1.7,Complete,2,N/A,N/A,N/A,N/A,00:48:14.397
-N/A,N/A,29.0,Unknown,2,N/A,N/A,N/A,N/A,00:48:17.364
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:01:07.469
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:01:09.691
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:02:58.702
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:03:31.658
-Success In Play,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:06:48.888
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:09:49.064
-Lost Out,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:10:49.058
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:11:07.733
-Success In Play,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:11:17.440
-Lost Out,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:12:38.251
-Won,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:13:56.938
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:14:37.855
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:15:40.161
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:18:28.064
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:19:48.226
-Lost Out,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:20:44.979
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:21:26.293
-Lost In Play,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:22:06.796
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:23:24.520
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:23:48.208
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:24:20.351
-Lost Out,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:25:50.083
-Lost Out,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:28:30.852
-Won,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:30:22.342
-Success In Play,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:31:45.477
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:33:06.462
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:34:04.331
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:34:06.240
-Lost In Play,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:35:27.252
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:36:31.862
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:36:51.556
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:39:36.664
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:39:55.855
-Success In Play,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:40:06.245
-Lost In Play,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:40:11.556
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:40:29.000
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:40:36.714
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:40:43.333
-Lost In Play,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:41:41.129
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:42:31.326
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:42:36.075
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:43:21.040
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:43:50.003
-Lost In Play,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:44:29.553
-Success In Play,Tackle,,N/A,1,N/A,N/A,N/A,N/A,00:44:58.769
-Lost,Aerial Lost,,N/A,1,N/A,N/A,N/A,N/A,00:46:00.399
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:00:17.984
-Lost Out,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:00:47.281
-Lost Out,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:01:47.636
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:05:25.824
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:10:37.430
-Won,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:10:55.795
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:13:09.904
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:13:12.830
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:13:26.442
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:16:15.035
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:17:20.915
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:18:19.278
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:19:51.616
-Success In Play,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:20:45.943
-Lost Out,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:22:36.517
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:23:27.592
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:24:05.494
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:27:12.899
-Lost Out,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:27:24.444
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:27:37.970
-Success In Play,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:29:21.596
-Success In Play,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:29:40.057
-Lost Out,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:29:45.014
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:30:02.951
-Won,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:30:12.211
-Lost In Play,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:30:24.776
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:31:09.703
-Lost Out,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:31:32.443
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:34:06.251
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:34:52.108
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:34:59.018
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:36:58.548
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:37:08.008
-Success In Play,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:37:44.076
-Lost In Play,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:37:46.921
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:38:18.549
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:38:21.485
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:38:55.891
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:39:37.854
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:41:15.432
-Lost Out,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:41:44.332
-Won,Tackle,,N/A,2,N/A,N/A,N/A,N/A,00:43:08.753
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:43:31.522
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:44:21.672
-Lost,Aerial Lost,,N/A,2,N/A,N/A,N/A,N/A,00:45:24.064
-N/A,N/A,,N/A,1,Head,FALSE,Off T,Normal,00:02:58.702
-N/A,N/A,,N/A,1,Right Foot,FALSE,Saved,Normal,00:08:33.291
-N/A,N/A,,N/A,1,Right Foot,True,Blocked,Half Volley,00:09:26.252
-N/A,N/A,,N/A,1,Head,FALSE,Goal,Normal,00:09:49.064
-N/A,N/A,,N/A,1,Head,FALSE,Off T,Normal,00:15:40.161
-N/A,N/A,,N/A,1,Right Foot,True,Blocked,Half Volley,00:16:42.173
-N/A,N/A,,N/A,1,Right Foot,FALSE,Off T,Normal,00:18:42.426
-N/A,N/A,,N/A,1,Right Foot,True,Saved,Half Volley,00:20:37.813
-N/A,N/A,,N/A,1,Left Foot,FALSE,Blocked,Normal,00:29:10.436
-N/A,N/A,,N/A,1,Right Foot,True,Post,Volley,00:34:57.385
-N/A,N/A,,N/A,1,Right Foot,FALSE,Blocked,Half Volley,00:36:33.525
-N/A,N/A,,N/A,2,Right Foot,True,Goal,Half Volley,00:02:30.481
-N/A,N/A,,N/A,2,Right Foot,FALSE,Goal,Half Volley,00:06:10.496
-N/A,N/A,,N/A,2,Left Foot,FALSE,Blocked,Normal,00:07:13.807
-N/A,N/A,,N/A,2,Right Foot,FALSE,Off T,Normal,00:15:30.604
-N/A,N/A,,N/A,2,Right Foot,FALSE,Blocked,Normal,00:29:00.750
-N/A,N/A,,N/A,2,Right Foot,FALSE,Blocked,Normal,00:30:41.753
-N/A,N/A,,N/A,2,Head,FALSE,Wayward,Normal,00:31:55.679
-N/A,N/A,,N/A,2,Right Foot,True,Blocked,Half Volley,00:32:52.736
-N/A,N/A,,N/A,2,Right Foot,True,Wayward,Half Volley,00:43:43.877
-N/A,N/A,,N/A,2,Head,FALSE,Wayward,Normal,00:44:21.672
-N/A,N/A,,N/A,2,Head,FALSE,Goal,Normal,00:47:39.261
+duel_outcome,duel_type,minute,pass_length,pass_outcome,period,second,shot_body_part,shot_first_time,shot_outcome,shot_technique,team
+N/A,N/A,0,7.3,Complete,1,0,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,0,3.9,Complete,1,0,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,0,30.1,Complete,1,4,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,0,35.2,Complete,1,7,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,0,29.6,Complete,1,13,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,0,20.4,Out,1,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,0,10.3,Complete,1,35,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,0,5.7,Complete,1,36,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,0,25.9,Complete,1,37,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,0,41.6,Complete,1,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,0,14.6,Complete,1,45,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,1,24.6,Incomplete,1,3,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,1,10.4,Incomplete,1,6,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,1,10.5,Complete,1,7,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,1,10.7,Incomplete,1,8,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,1,9.2,Out,1,9,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,1,18.6,Complete,1,19,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,1,40.5,Incomplete,1,24,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,1,29.4,Incomplete,1,29,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,1,101.0,Incomplete,1,44,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,1,14.7,Incomplete,1,52,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,2,10.7,Complete,1,13,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,2,8.0,Complete,1,13,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,2,13.0,Complete,1,14,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,2,9.0,Complete,1,17,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,2,8.4,Complete,1,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,2,33.2,Incomplete,1,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,2,34.1,Complete,1,26,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,2,45.8,Incomplete,1,30,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,2,38.3,Complete,1,57,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,3,63.1,Incomplete,1,28,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,3,10.7,Incomplete,1,31,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,3,18.6,Complete,1,33,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,3,8.2,Complete,1,37,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,3,36.8,Complete,1,39,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,3,30.4,Unknown,1,43,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,4,62.0,Complete,1,11,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,4,5.6,Incomplete,1,17,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,4,12.2,Complete,1,18,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,4,51.8,Complete,1,21,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,4,13.3,Complete,1,25,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,4,4.7,Complete,1,26,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,4,11.9,Complete,1,31,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,4,18.4,Incomplete,1,47,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,4,11.8,Complete,1,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,4,9.2,Incomplete,1,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,4,50.1,Incomplete,1,53,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,5,21.6,Complete,1,4,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,5,29.8,Complete,1,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,5,21.5,Complete,1,13,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,5,11.1,Complete,1,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,5,23.6,Complete,1,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,5,17.9,Complete,1,24,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,5,16.6,Complete,1,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,5,18.4,Complete,1,35,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,5,40.2,Out,1,37,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,6,85.5,Out,1,6,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,6,11.8,Complete,1,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,6,6.7,Complete,1,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,6,5.7,Incomplete,1,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,6,25.1,Complete,1,31,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,6,5.5,Complete,1,35,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,6,7.1,Complete,1,38,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,6,38.7,Complete,1,39,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,6,30.5,Complete,1,45,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,6,23.4,Incomplete,1,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,6,19.2,Complete,1,53,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,6,49.0,Complete,1,56,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,6,18.8,Incomplete,1,59,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,7,7.1,Complete,1,24,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,7,64.0,Out,1,28,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,7,10.1,Complete,1,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,7,10.3,Complete,1,48,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,7,32.8,Out,1,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,7,28.0,Complete,1,56,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,7,15.3,Complete,1,58,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,8,5.8,Incomplete,1,0,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,8,43.1,Incomplete,1,26,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,9,29.2,Incomplete,1,3,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,9,12.9,Complete,1,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,9,25.0,Incomplete,1,23,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,9,10.8,Complete,1,24,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,9,14.7,Complete,1,40,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,9,15.5,Complete,1,44,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,9,43.6,Complete,1,45,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,9,14.9,Complete,1,47,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,10,23.6,Complete,1,39,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,10,15.8,Complete,1,43,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,10,17.6,Complete,1,46,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,10,15.3,Complete,1,57,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,10,2.4,Incomplete,1,59,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,11,35.6,Complete,1,5,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,11,17.0,Incomplete,1,7,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,11,8.8,Complete,1,9,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,11,28.1,Incomplete,1,10,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,11,25.6,Incomplete,1,12,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,11,24.8,Incomplete,1,14,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,11,18.2,Complete,1,19,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,11,55.2,Complete,1,37,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,11,15.6,Incomplete,1,39,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,11,37.6,Incomplete,1,43,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,11,14.5,Incomplete,1,45,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,11,16.7,Complete,1,46,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,11,16.4,Complete,1,59,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,12,45.0,Complete,1,3,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,12,13.9,Complete,1,6,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,12,12.5,Complete,1,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,12,26.0,Complete,1,11,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,12,33.7,Complete,1,15,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,12,36.9,Out,1,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,12,32.5,Incomplete,1,34,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,13,37.3,Complete,1,41,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,13,35.2,Complete,1,42,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,13,22.1,Complete,1,45,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,13,15.6,Complete,1,48,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,13,25.1,Complete,1,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,13,10.9,Complete,1,55,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,14,14.9,Complete,1,2,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,14,15.1,Pass Offside,1,3,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,14,45.2,Complete,1,31,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,14,23.2,Complete,1,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,14,34.9,Incomplete,1,36,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,14,36.5,Incomplete,1,37,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,14,29.1,Complete,1,44,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,14,32.0,Incomplete,1,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,14,15.9,Unknown,1,48,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,15,27.8,Complete,1,5,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,15,17.7,Complete,1,14,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,15,24.4,Complete,1,15,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,15,29.7,Incomplete,1,20,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,15,15.1,Complete,1,28,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,15,12.1,Complete,1,30,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,15,12.1,Complete,1,34,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,15,34.0,Complete,1,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,16,66.4,Unknown,1,12,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,16,13.0,Complete,1,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,16,25.2,Complete,1,27,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,16,47.7,Complete,1,31,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,16,16.2,Complete,1,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,16,32.5,Complete,1,39,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,16,19.2,Complete,1,45,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,16,19.9,Incomplete,1,47,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,16,17.0,Incomplete,1,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,16,25.7,Complete,1,51,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,16,35.8,Complete,1,54,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,17,23.6,Incomplete,1,1,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,17,23.4,Complete,1,5,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,17,11.8,Complete,1,10,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,17,10.3,Complete,1,11,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,17,30.6,Complete,1,19,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,17,10.8,Complete,1,21,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,17,29.8,Complete,1,24,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,17,42.2,Complete,1,27,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,17,16.9,Complete,1,32,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,17,32.6,Complete,1,36,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,18,66.4,Incomplete,1,8,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,18,34.9,Incomplete,1,11,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,18,30.0,Complete,1,18,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,18,58.2,Incomplete,1,25,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,18,16.5,Incomplete,1,28,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,18,9.2,Complete,1,31,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,18,14.6,Complete,1,35,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,18,19.4,Complete,1,37,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,18,17.6,Complete,1,38,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,19,88.0,Incomplete,1,10,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,19,19.2,Complete,1,12,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,19,51.6,Incomplete,1,26,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,19,35.9,Incomplete,1,29,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,19,20.8,Complete,1,32,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,19,52.2,Incomplete,1,44,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,19,20.4,Incomplete,1,48,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,19,16.0,Incomplete,1,49,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,19,11.2,Incomplete,1,51,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,19,20.4,Complete,1,53,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,19,15.6,Complete,1,57,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,20,55.7,Complete,1,35,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,20,43.1,Complete,1,41,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,20,8.7,Complete,1,53,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,20,21.4,Complete,1,56,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,34.6,Complete,1,1,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,10.6,Complete,1,5,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,20.3,Complete,1,7,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,20.1,Complete,1,11,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,39.1,Complete,1,14,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,57.1,Incomplete,1,19,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,29.3,Incomplete,1,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,21,16.3,Incomplete,1,24,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,8.0,Complete,1,26,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,21,10.5,Incomplete,1,27,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,21,8.9,Complete,1,29,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,23.4,Complete,1,49,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,10.3,Complete,1,51,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,10.8,Complete,1,53,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,24.4,Complete,1,55,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,16.3,Complete,1,58,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,21,15.2,Complete,1,59,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,22,12.8,Complete,1,0,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,22,26.3,Complete,1,2,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,22,8.8,Complete,1,5,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,22,22.6,Complete,1,9,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,22,20.6,Complete,1,14,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,22,16.3,Complete,1,17,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,22,46.9,Complete,1,21,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,22,28.6,Complete,1,34,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,22,34.3,Complete,1,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,22,16.6,Complete,1,42,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,22,35.1,Out,1,46,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,23,65.8,Complete,1,21,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,23,29.5,Incomplete,1,24,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,23,27.0,Complete,1,45,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,23,12.8,Complete,1,53,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,23,40.9,Out,1,55,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,24,51.5,Incomplete,1,16,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,24,5.9,Unknown,1,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,24,38.8,Complete,1,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,24,12.6,Complete,1,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,24,25.9,Complete,1,43,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,24,22.4,Complete,1,46,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,24,50.1,Out,1,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,25,29.8,Complete,1,10,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,25,12.0,Incomplete,1,12,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,25,14.8,Complete,1,17,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,25,14.8,Pass Offside,1,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,25,30.9,Complete,1,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,25,12.5,Complete,1,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,25,23.8,Complete,1,41,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,25,22.7,Complete,1,48,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,25,17.9,Complete,1,55,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,25,31.3,Complete,1,58,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,26,10.7,Complete,1,0,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,26,18.1,Complete,1,5,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,26,32.3,Incomplete,1,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,26,18.7,Complete,1,9,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,26,73.0,Complete,1,14,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,26,17.3,Incomplete,1,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,26,32.8,Complete,1,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,26,19.1,Complete,1,41,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,26,16.4,Complete,1,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,26,11.3,Complete,1,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,26,26.4,Out,1,51,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,35.2,Incomplete,1,14,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,27,9.3,Complete,1,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,41.2,Complete,1,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,16.5,Complete,1,29,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,19.9,Complete,1,31,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,46.3,Complete,1,34,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,13.7,Complete,1,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,9.6,Complete,1,42,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,7.2,Incomplete,1,43,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,9.2,Complete,1,44,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,27,16.3,Incomplete,1,46,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,27,11.7,Complete,1,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,14.0,Complete,1,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,11.2,Complete,1,53,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,34.0,Complete,1,56,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,27,28.6,Complete,1,59,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,28,40.5,Incomplete,1,2,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,28,4.2,Incomplete,1,8,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,28,25.1,Incomplete,1,27,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,28,14.6,Complete,1,41,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,28,13.2,Out,1,42,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,29,28.7,Incomplete,1,0,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,29,12.6,Incomplete,1,2,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,29,5.3,Complete,1,4,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,29,9.1,Complete,1,4,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,29,40.1,Incomplete,1,15,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,29,15.4,Complete,1,19,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,29,4.6,Incomplete,1,26,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,29,6.5,Complete,1,29,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,29,35.1,Complete,1,31,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,29,25.3,Complete,1,35,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,29,11.8,Complete,1,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,29,26.1,Complete,1,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,29,24.6,Incomplete,1,45,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,30,77.1,Out,1,3,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,30,18.9,Complete,1,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,30,22.9,Complete,1,11,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,30,30.5,Complete,1,16,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,30,19.2,Complete,1,20,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,30,11.4,Complete,1,25,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,30,18.3,Complete,1,26,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,30,49.1,Complete,1,29,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,30,50.7,Pass Offside,1,33,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,30,24.8,Complete,1,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,30,21.3,Complete,1,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,30,60.0,Incomplete,1,56,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,31,63.3,Incomplete,1,8,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,15.6,Complete,1,11,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,31,7.2,Incomplete,1,13,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,31,11.0,Complete,1,15,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,9.8,Complete,1,17,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,10.9,Complete,1,18,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,8.5,Complete,1,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,17.2,Complete,1,21,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,8.6,Complete,1,22,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,11.5,Complete,1,24,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,9.6,Complete,1,25,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,26.3,Incomplete,1,26,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,39.7,Incomplete,1,31,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,11.9,Incomplete,1,34,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,31,5.2,Incomplete,1,37,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,7.7,Incomplete,1,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,31,18.3,Complete,1,44,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,31,9.0,Complete,1,48,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,31,31.5,Complete,1,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,31,30.7,Incomplete,1,53,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,32,25.1,Complete,1,2,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,32,10.7,Complete,1,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,32,38.9,Complete,1,10,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,32,15.5,Complete,1,12,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,32,29.6,Incomplete,1,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,32,9.5,Complete,1,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,32,23.8,Complete,1,24,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,32,44.5,Complete,1,26,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,32,8.4,Complete,1,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,33,67.3,Incomplete,1,2,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,33,18.7,Complete,1,6,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,33,19.7,Complete,1,16,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,33,29.2,Complete,1,19,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,33,56.0,Incomplete,1,23,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,33,13.8,Complete,1,27,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,33,21.6,Complete,1,28,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,33,11.3,Complete,1,30,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,33,29.6,Complete,1,32,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,33,16.9,Complete,1,34,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,33,11.0,Complete,1,36,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,33,20.2,Complete,1,39,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,33,16.4,Complete,1,41,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,33,13.0,Complete,1,42,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,33,19.1,Complete,1,48,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,33,26.2,Complete,1,54,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,34,61.0,Complete,1,1,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,34,7.4,Complete,1,4,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,34,19.3,Incomplete,1,6,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,34,26.0,Complete,1,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,34,2.6,Incomplete,1,17,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,34,11.6,Complete,1,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,34,30.2,Complete,1,27,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,34,22.7,Complete,1,32,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,34,26.6,Complete,1,35,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,34,12.9,Complete,1,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,34,25.6,Complete,1,42,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,34,43.4,Complete,1,45,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,34,9.9,Complete,1,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,34,10.9,Complete,1,53,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,34,42.5,Complete,1,54,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,35,50.0,Incomplete,1,0,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,35,29.2,Complete,1,4,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,35,18.3,Complete,1,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,35,15.8,Complete,1,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,35,41.2,Complete,1,15,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,35,22.6,Complete,1,21,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,35,9.6,Complete,1,23,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,35,25.9,Complete,1,25,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,36,34.3,Incomplete,1,30,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,36,29.2,Incomplete,1,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,36,52.0,Unknown,1,53,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,39,62.8,Incomplete,1,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,39,13.4,Complete,1,39,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,39,11.5,Complete,1,42,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,39,28.3,Complete,1,43,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,39,17.7,Complete,1,48,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,39,59.2,Incomplete,1,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,39,14.7,Complete,1,55,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,39,10.7,Complete,1,56,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,39,40.0,Incomplete,1,57,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,39,32.0,Incomplete,1,59,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,40,19.0,Complete,1,2,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,40,15.2,Complete,1,4,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,40,9.6,Complete,1,29,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,40,5.0,Incomplete,1,30,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,40,3.0,Incomplete,1,32,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,40,6.3,Complete,1,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,40,29.9,Incomplete,1,34,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,40,13.7,Complete,1,36,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,40,39.3,Incomplete,1,39,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,40,12.3,Complete,1,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,40,34.7,Complete,1,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,40,27.8,Complete,1,56,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,40,24.8,Complete,1,59,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,41,17.7,Complete,1,2,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,41,22.4,Complete,1,7,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,41,34.0,Incomplete,1,10,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,41,54.6,Complete,1,13,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,41,14.2,Complete,1,20,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,41,18.1,Complete,1,21,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,41,27.8,Complete,1,23,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,41,28.7,Complete,1,25,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,41,24.6,Complete,1,28,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,41,24.3,Complete,1,32,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,41,20.8,Complete,1,39,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,42,29.7,Complete,1,3,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,42,25.7,Complete,1,5,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,42,2.4,Incomplete,1,8,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,42,5.1,Incomplete,1,14,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,42,25.7,Complete,1,29,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,42,12.0,Incomplete,1,31,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,42,41.1,Incomplete,1,33,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,42,14.8,Incomplete,1,36,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,42,25.1,Out,1,38,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,42,12.5,Complete,1,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,42,8.2,Complete,1,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,42,50.8,Complete,1,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,42,40.7,Complete,1,55,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,43,35.2,Complete,1,0,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,43,37.2,Incomplete,1,3,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,43,62.8,Incomplete,1,17,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,43,15.0,Out,1,21,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,43,11.3,Complete,1,35,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,43,28.7,Incomplete,1,37,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,43,19.0,Incomplete,1,39,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,43,30.2,Complete,1,41,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,43,7.7,Incomplete,1,44,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,43,25.6,Incomplete,1,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,43,25.6,Out,1,50,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,44,9.3,Complete,1,5,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,6.2,Complete,1,6,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,6.7,Complete,1,7,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,21.7,Complete,1,9,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,32.0,Complete,1,12,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,20.2,Complete,1,16,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,15.1,Complete,1,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,16.9,Complete,1,21,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,37.7,Complete,1,23,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,15.7,Complete,1,27,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,23.7,Complete,1,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,45.4,Complete,1,36,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,14.0,Complete,1,41,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,25.8,Complete,1,43,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,44,8.7,Complete,1,47,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,44,43.1,Complete,1,49,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,44,43.7,Complete,1,54,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,45,13.6,Complete,1,3,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,37.4,Complete,1,34,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,45,59.7,Complete,1,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,13.9,Complete,1,53,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,20.6,Complete,1,56,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,33.1,Incomplete,1,58,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,29.1,Complete,1,3,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,46,61.7,Incomplete,1,9,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,46,56.4,Complete,1,19,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,10.9,Complete,1,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,12.2,Complete,1,24,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,9.6,Complete,1,26,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,10.4,Complete,1,29,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,46,44.6,Complete,1,33,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,46,12.8,Complete,1,38,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,46,11.7,Complete,1,39,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,46,17.6,Complete,1,40,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,46,34.1,Complete,1,41,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,46,53.2,Complete,1,47,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,46,21.2,Complete,1,54,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,46,10.9,Complete,1,55,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,46,14.2,Complete,1,57,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,45,5.0,Complete,2,1,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,23.6,Complete,2,1,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,23.2,Complete,2,3,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,21.1,Complete,2,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,24.0,Complete,2,10,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,40.2,Incomplete,2,15,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,17.4,Complete,2,17,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,45,1.7,Incomplete,2,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,45,24.3,Complete,2,30,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,36.5,Complete,2,32,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,29.7,Complete,2,35,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,8.5,Complete,2,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,7.9,Complete,2,43,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,9.2,Complete,2,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,5.1,Complete,2,54,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,25.6,Complete,2,56,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,45,13.1,Complete,2,59,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,23.9,Complete,2,3,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,10.7,Complete,2,6,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,15.6,Complete,2,7,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,38.1,Complete,2,23,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,38.9,Complete,2,25,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,17.6,Complete,2,32,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,15.7,Complete,2,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,51.3,Complete,2,41,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,46,25.6,Complete,2,45,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,47,45.9,Incomplete,2,11,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,47,59.7,Complete,2,15,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,47,15.5,Complete,2,23,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,47,11.5,Complete,2,29,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,48,19.7,Complete,2,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,48,27.5,Complete,2,42,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,48,52.0,Incomplete,2,45,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,48,16.9,Complete,2,48,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,48,21.1,Out,2,49,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,48,23.3,Complete,2,59,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,49,37.6,Complete,2,1,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,49,27.1,Complete,2,5,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,49,30.8,Incomplete,2,7,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,49,6.4,Complete,2,11,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,49,13.5,Complete,2,12,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,49,17.3,Complete,2,14,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,49,14.4,Complete,2,17,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,49,42.7,Incomplete,2,18,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,49,41.2,Complete,2,24,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,49,9.9,Complete,2,32,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,49,11.4,Complete,2,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,49,33.0,Complete,2,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,49,13.5,Incomplete,2,43,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,49,4.1,Incomplete,2,49,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,50,31.6,Incomplete,2,17,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,50,30.6,Complete,2,22,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,50,12.1,Incomplete,2,24,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,50,32.0,Incomplete,2,28,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,50,23.8,Complete,2,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,50,17.2,Complete,2,41,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,50,19.6,Complete,2,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,50,32.9,Complete,2,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,50,13.4,Complete,2,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,50,12.8,Complete,2,54,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,50,25.1,Complete,2,56,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,51,14.5,Complete,2,1,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,51,34.6,Complete,2,3,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,51,21.0,Complete,2,56,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,52,16.1,Complete,2,0,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,52,2.1,Incomplete,2,8,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,52,16.3,Complete,2,10,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,52,13.3,Complete,2,18,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,52,29.7,Out,2,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,52,38.6,Complete,2,28,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,52,21.7,Complete,2,31,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,52,22.9,Incomplete,2,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,52,15.4,Incomplete,2,44,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,52,4.9,Incomplete,2,47,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,53,92.9,Incomplete,2,17,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,54,57.3,Incomplete,2,26,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,54,66.0,Complete,2,59,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,14.6,Complete,2,16,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,30.2,Incomplete,2,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,20.0,Complete,2,23,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,22.7,Complete,2,27,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,57.9,Complete,2,32,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,12.4,Incomplete,2,35,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,11.5,Complete,2,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,26.0,Complete,2,43,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,26.3,Complete,2,45,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,28.1,Complete,2,48,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,13.2,Complete,2,51,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,9.5,Complete,2,53,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,55,8.9,Complete,2,56,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,55,3.3,Incomplete,2,58,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,56,24.0,Unknown,2,0,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,56,40.4,Complete,2,23,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,56,4.0,Complete,2,26,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,56,4.7,Complete,2,27,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,56,11.8,Complete,2,28,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,56,10.0,Complete,2,30,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,56,40.5,Out,2,30,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,56,9.9,Complete,2,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,56,11.9,Complete,2,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,56,23.0,Complete,2,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,56,71.6,Incomplete,2,54,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,54.8,Incomplete,2,8,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,57,18.4,Complete,2,14,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,23.6,Complete,2,16,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,14.7,Complete,2,20,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,14.7,Complete,2,25,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,29.0,Complete,2,26,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,24.1,Complete,2,31,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,25.7,Incomplete,2,36,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,14.0,Incomplete,2,37,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,57,28.6,Complete,2,39,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,12.2,Incomplete,2,44,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,10.0,Incomplete,2,46,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,16.2,Incomplete,2,47,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,57,20.8,Complete,2,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,57,18.5,Complete,2,57,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,17.7,Complete,2,0,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,59.6,Complete,2,3,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,42.5,Incomplete,2,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,18.3,Incomplete,2,12,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,58,16.5,Complete,2,15,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,55.1,Complete,2,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,5.0,Incomplete,2,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,13.1,Complete,2,24,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,5.2,Incomplete,2,26,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,14.5,Complete,2,34,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,58,15.2,Complete,2,37,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,58,14.9,Complete,2,39,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,58,25.6,Incomplete,2,42,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,58,23.6,Complete,2,44,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,13.4,Complete,2,48,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,31.4,Complete,2,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,10.4,Complete,2,55,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,58,15.3,Complete,2,59,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,59,29.0,Complete,2,1,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,59,21.9,Complete,2,5,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,59,12.4,Complete,2,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,59,6.5,Complete,2,9,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,59,8.3,Complete,2,12,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,59,6.8,Complete,2,13,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,59,9.9,Incomplete,2,15,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,59,5.8,Complete,2,16,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,59,9.1,Complete,2,17,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,59,22.5,Complete,2,19,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,59,7.9,Complete,2,21,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,59,38.7,Complete,2,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,61,62.5,Complete,2,11,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,61,7.5,Complete,2,16,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,61,8.2,Complete,2,18,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,61,15.8,Complete,2,19,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,61,40.1,Incomplete,2,21,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,61,15.9,Complete,2,26,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,61,25.2,Complete,2,30,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,61,19.5,Complete,2,34,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,61,15.8,Complete,2,39,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,61,11.9,Complete,2,45,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,61,27.3,Complete,2,46,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,61,39.7,Incomplete,2,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,61,21.1,Incomplete,2,54,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,61,14.4,Complete,2,55,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,61,10.5,Complete,2,59,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,62,5.1,Incomplete,2,2,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,62,12.5,Complete,2,10,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,62,6.2,Complete,2,11,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,62,5.4,Incomplete,2,15,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,62,47.3,Incomplete,2,17,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,62,11.9,Incomplete,2,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,62,7.0,Incomplete,2,23,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,62,13.8,Complete,2,25,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,62,11.4,Complete,2,35,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,62,38.8,Complete,2,36,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,62,25.7,Complete,2,42,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,62,9.1,Incomplete,2,46,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,62,8.9,Complete,2,47,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,62,6.6,Complete,2,49,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,62,21.7,Complete,2,51,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,62,8.9,Complete,2,52,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,63,39.7,Complete,2,2,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,63,36.9,Incomplete,2,10,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,63,16.6,Complete,2,14,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,63,15.0,Incomplete,2,15,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,63,11.2,Complete,2,19,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,63,14.6,Incomplete,2,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,63,51.5,Complete,2,42,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,63,16.2,Incomplete,2,46,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,63,12.1,Incomplete,2,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,63,20.7,Incomplete,2,48,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,63,9.8,Complete,2,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,63,12.9,Complete,2,51,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,63,16.3,Complete,2,55,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,63,7.8,Complete,2,59,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,64,17.6,Complete,2,0,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,64,13.9,Complete,2,4,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,64,5.1,Incomplete,2,6,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,64,27.7,Incomplete,2,19,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,64,9.7,Complete,2,21,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,64,13.6,Incomplete,2,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,64,22.6,Complete,2,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,64,41.6,Incomplete,2,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,64,15.1,Complete,2,51,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,64,29.3,Complete,2,54,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,64,13.8,Complete,2,59,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,65,42.5,Incomplete,2,0,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,65,24.3,Incomplete,2,11,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,65,14.3,Complete,2,25,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,65,16.4,Complete,2,32,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,65,15.6,Complete,2,34,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,65,35.3,Complete,2,36,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,65,36.5,Complete,2,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,65,47.9,Complete,2,46,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,66,53.2,Incomplete,2,25,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,66,36.8,Incomplete,2,30,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,66,25.3,Complete,2,35,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,66,22.4,Complete,2,39,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,66,37.1,Incomplete,2,44,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,66,19.8,Complete,2,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,66,18.7,Complete,2,54,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,66,37.6,Complete,2,57,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,67,43.2,Pass Offside,2,1,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,67,58.6,Complete,2,27,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,67,21.1,Incomplete,2,29,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,67,13.5,Complete,2,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,67,23.5,Complete,2,46,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,67,19.3,Complete,2,57,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,67,45.9,Complete,2,58,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,68,18.1,Complete,2,2,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,68,14.2,Complete,2,4,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,68,10.2,Complete,2,5,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,68,12.6,Incomplete,2,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,68,18.5,Complete,2,10,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,68,7.4,Incomplete,2,15,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,68,36.1,Complete,2,17,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,68,53.7,Incomplete,2,24,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,68,23.1,Complete,2,27,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,68,13.7,Complete,2,30,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,68,12.8,Complete,2,31,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,68,15.5,Injury Clearance,2,36,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,68,15.1,Complete,2,53,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,68,14.8,Injury Clearance,2,54,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,69,25.2,Incomplete,2,5,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,69,3.7,Complete,2,9,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,69,12.5,Incomplete,2,14,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,69,8.0,Complete,2,15,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,69,101.4,Complete,2,39,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,70,12.5,Complete,2,14,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,70,8.7,Complete,2,18,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,70,13.3,Complete,2,20,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,70,28.0,Complete,2,23,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,70,13.5,Complete,2,25,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,70,9.3,Incomplete,2,26,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,70,3.4,Complete,2,27,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,70,11.1,Complete,2,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,70,19.3,Complete,2,34,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,70,27.9,Complete,2,36,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,70,23.8,Complete,2,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,71,62.9,Out,2,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,72,68.1,Complete,2,9,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,72,14.6,Complete,2,12,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,72,4.8,Complete,2,14,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,72,17.7,Complete,2,15,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,72,23.2,Complete,2,18,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,72,14.5,Complete,2,21,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,72,18.6,Complete,2,36,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,72,5.4,Incomplete,2,37,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,72,36.7,Complete,2,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,72,21.3,Complete,2,42,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,72,8.0,Complete,2,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,72,7.8,Complete,2,55,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,72,10.7,Complete,2,56,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,72,20.8,Complete,2,58,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,27.9,Complete,2,0,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,77.2,Incomplete,2,4,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,12.6,Complete,2,18,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,10.2,Complete,2,19,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,9.1,Complete,2,20,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,8.8,Complete,2,21,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,26.5,Complete,2,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,12.1,Complete,2,25,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,12.5,Complete,2,27,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,12.8,Complete,2,29,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,10.5,Complete,2,30,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,1.3,Incomplete,2,31,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,20.1,Incomplete,2,34,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,73,0.3,Incomplete,2,39,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,73,36.5,Complete,2,54,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,8.8,Complete,2,55,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,73,23.6,Complete,2,58,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,74,28.9,Incomplete,2,2,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,74,14.2,Complete,2,5,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,74,8.4,Incomplete,2,9,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,74,24.0,Incomplete,2,17,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,74,13.9,Complete,2,22,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,74,14.0,Out,2,25,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,74,14.5,Complete,2,32,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,74,17.1,Complete,2,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,75,24.9,Complete,2,1,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,75,13.0,Incomplete,2,2,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,75,28.8,Complete,2,4,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,75,52.2,Complete,2,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,75,8.6,Incomplete,2,27,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,75,6.7,Complete,2,30,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,75,16.2,Complete,2,33,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,75,45.4,Complete,2,36,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,75,11.6,Incomplete,2,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,75,14.1,Complete,2,51,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,75,12.0,Complete,2,53,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,75,18.0,Complete,2,55,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,75,25.0,Complete,2,59,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,76,1.8,Incomplete,2,2,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,76,30.1,Complete,2,7,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,76,9.4,Complete,2,9,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,76,12.0,Complete,2,15,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,76,16.9,Complete,2,16,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,76,46.8,Complete,2,19,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,76,45.7,Incomplete,2,53,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,77,33.2,Incomplete,2,33,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,77,8.8,Complete,2,39,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,77,58.1,Complete,2,41,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,77,64.4,Complete,2,45,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,77,4.2,Complete,2,49,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,78,35.4,Incomplete,2,34,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,78,9.4,Complete,2,38,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,78,35.1,Incomplete,2,41,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,78,67.2,Incomplete,2,46,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,78,49.7,Pass Offside,2,52,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,79,40.5,Complete,2,3,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,79,15.1,Incomplete,2,7,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,79,11.3,Complete,2,9,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,79,36.3,Complete,2,10,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,79,50.0,Out,2,14,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,79,13.3,Complete,2,21,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,79,13.7,Out,2,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,79,26.9,Complete,2,46,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,79,12.7,Incomplete,2,47,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,79,9.8,Complete,2,49,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,79,29.6,Complete,2,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,79,21.6,Complete,2,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,79,7.7,Complete,2,55,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,79,26.0,Incomplete,2,56,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,79,20.0,Out,2,59,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,80,14.5,Complete,2,4,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,80,43.9,Complete,2,8,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,80,20.8,Complete,2,11,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,80,15.3,Complete,2,20,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,80,24.5,Incomplete,2,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,80,23.2,Complete,2,26,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,80,33.3,Incomplete,2,32,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,80,9.9,Complete,2,37,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,80,18.9,Complete,2,37,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,80,13.6,Complete,2,39,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,80,39.2,Complete,2,44,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,80,26.1,Incomplete,2,49,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,80,57.1,Incomplete,2,56,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,80,28.1,Unknown,2,59,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,81,30.4,Incomplete,2,57,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,82,11.1,Incomplete,2,0,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,82,12.9,Complete,2,3,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,82,31.9,Incomplete,2,5,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,82,24.2,Complete,2,11,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,82,15.8,Complete,2,14,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,82,62.6,Incomplete,2,17,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,82,25.2,Complete,2,22,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,82,28.9,Complete,2,28,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,82,51.2,Complete,2,31,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,82,23.4,Complete,2,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,82,16.7,Complete,2,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,82,11.5,Complete,2,44,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,83,49.6,Incomplete,2,15,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,83,0.9,Incomplete,2,20,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,83,3.5,Incomplete,2,21,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,83,26.4,Incomplete,2,23,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,83,23.6,Incomplete,2,24,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,83,14.3,Complete,2,27,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,83,1.4,Incomplete,2,28,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,83,13.4,Complete,2,30,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,83,14.3,Complete,2,31,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,83,18.8,Complete,2,32,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,83,48.4,Incomplete,2,34,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,83,10.1,Incomplete,2,36,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,83,4.1,Incomplete,2,40,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,83,20.1,Complete,2,53,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,83,15.0,Complete,2,55,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,83,9.8,Incomplete,2,58,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,84,40.0,Out,2,2,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,84,15.6,Complete,2,16,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,84,10.2,Complete,2,17,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,84,14.4,Complete,2,19,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,84,25.5,Out,2,22,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,84,20.9,Complete,2,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,84,68.2,Complete,2,35,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,84,17.6,Complete,2,37,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,84,2.4,Incomplete,2,43,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,85,45.5,Incomplete,2,18,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,85,13.9,Complete,2,19,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,85,12.5,Complete,2,24,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,85,3.7,Incomplete,2,26,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,86,50.0,Complete,2,0,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,86,8.4,Complete,2,3,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,86,12.3,Incomplete,2,4,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,86,0.0,Complete,2,5,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,86,10.3,Incomplete,2,6,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,86,54.6,Incomplete,2,7,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,86,18.7,Incomplete,2,15,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,86,34.4,Complete,2,19,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,86,30.5,Incomplete,2,23,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,86,12.2,Complete,2,34,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,86,9.0,Complete,2,35,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,86,8.0,Complete,2,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,86,10.5,Complete,2,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,86,14.2,Complete,2,50,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,86,3.3,Incomplete,2,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,87,12.6,Complete,2,4,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,87,12.9,Complete,2,6,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,87,38.9,Incomplete,2,7,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,87,49.1,Incomplete,2,21,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,87,20.2,Incomplete,2,24,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,87,21.2,Unknown,2,27,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,87,57.3,Out,2,55,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,88,12.4,Complete,2,1,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,88,28.3,Complete,2,7,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,88,26.2,Complete,2,13,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,88,45.4,Pass Offside,2,16,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,88,58.4,Complete,2,28,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,88,25.7,Complete,2,31,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,88,10.3,Complete,2,35,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,88,17.8,Complete,2,38,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,88,10.1,Incomplete,2,40,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,88,25.7,Incomplete,2,41,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,88,22.3,Complete,2,47,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,88,14.2,Complete,2,51,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,88,1.0,Incomplete,2,52,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,89,42.4,Complete,2,19,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,89,27.6,Out,2,24,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,89,64.4,Complete,2,54,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,89,5.8,Incomplete,2,57,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,90,61.9,Unknown,2,1,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,90,60.1,Complete,2,20,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,90,19.4,Incomplete,2,24,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,90,9.5,Complete,2,30,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,90,39.8,Pass Offside,2,31,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,90,61.8,Unknown,2,51,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,91,60.1,Complete,2,42,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,91,15.8,Complete,2,45,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,91,10.3,Complete,2,53,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,91,13.3,Complete,2,53,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,91,0.3,Incomplete,2,54,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,92,18.8,Unknown,2,15,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,92,67.7,Incomplete,2,24,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,92,14.9,Complete,2,27,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,92,6.8,Incomplete,2,29,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,92,14.2,Complete,2,30,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,92,19.3,Complete,2,33,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,92,38.7,Complete,2,37,N/A,N/A,N/A,N/A,Levante UD
+N/A,N/A,93,1.7,Complete,2,14,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,93,29.0,Unknown,2,17,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,1,,N/A,1,7,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,1,,N/A,1,9,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,2,,N/A,1,58,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,3,,N/A,1,31,N/A,N/A,N/A,N/A,Eibar
+Success In Play,Tackle,6,,N/A,1,48,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,9,,N/A,1,49,N/A,N/A,N/A,N/A,Levante UD
+Lost Out,Tackle,10,,N/A,1,49,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,11,,N/A,1,7,N/A,N/A,N/A,N/A,Eibar
+Success In Play,Tackle,11,,N/A,1,17,N/A,N/A,N/A,N/A,Eibar
+Lost Out,Tackle,12,,N/A,1,38,N/A,N/A,N/A,N/A,Eibar
+Won,Tackle,13,,N/A,1,56,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,14,,N/A,1,37,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,15,,N/A,1,40,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,18,,N/A,1,28,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,19,,N/A,1,48,N/A,N/A,N/A,N/A,Eibar
+Lost Out,Tackle,20,,N/A,1,44,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,21,,N/A,1,26,N/A,N/A,N/A,N/A,Eibar
+Lost In Play,Tackle,22,,N/A,1,6,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,23,,N/A,1,24,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,23,,N/A,1,48,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,24,,N/A,1,20,N/A,N/A,N/A,N/A,Levante UD
+Lost Out,Tackle,25,,N/A,1,50,N/A,N/A,N/A,N/A,Eibar
+Lost Out,Tackle,28,,N/A,1,30,N/A,N/A,N/A,N/A,Eibar
+Won,Tackle,30,,N/A,1,22,N/A,N/A,N/A,N/A,Eibar
+Success In Play,Tackle,31,,N/A,1,45,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,33,,N/A,1,6,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,34,,N/A,1,4,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,34,,N/A,1,6,N/A,N/A,N/A,N/A,Levante UD
+Lost In Play,Tackle,35,,N/A,1,27,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,36,,N/A,1,31,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,36,,N/A,1,51,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,39,,N/A,1,36,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,39,,N/A,1,55,N/A,N/A,N/A,N/A,Levante UD
+Success In Play,Tackle,40,,N/A,1,6,N/A,N/A,N/A,N/A,Levante UD
+Lost In Play,Tackle,40,,N/A,1,11,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,40,,N/A,1,29,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,40,,N/A,1,36,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,40,,N/A,1,43,N/A,N/A,N/A,N/A,Eibar
+Lost In Play,Tackle,41,,N/A,1,41,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,42,,N/A,1,31,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,42,,N/A,1,36,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,43,,N/A,1,21,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,43,,N/A,1,50,N/A,N/A,N/A,N/A,Levante UD
+Lost In Play,Tackle,44,,N/A,1,29,N/A,N/A,N/A,N/A,Eibar
+Success In Play,Tackle,44,,N/A,1,58,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,46,,N/A,1,0,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,45,,N/A,2,17,N/A,N/A,N/A,N/A,Levante UD
+Lost Out,Tackle,45,,N/A,2,47,N/A,N/A,N/A,N/A,Eibar
+Lost Out,Tackle,46,,N/A,2,47,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,50,,N/A,2,25,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,55,,N/A,2,37,N/A,N/A,N/A,N/A,Levante UD
+Won,Tackle,55,,N/A,2,55,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,58,,N/A,2,9,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,58,,N/A,2,12,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,58,,N/A,2,26,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,61,,N/A,2,15,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,62,,N/A,2,20,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,63,,N/A,2,19,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,64,,N/A,2,51,N/A,N/A,N/A,N/A,Levante UD
+Success In Play,Tackle,65,,N/A,2,45,N/A,N/A,N/A,N/A,Eibar
+Lost Out,Tackle,67,,N/A,2,36,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,68,,N/A,2,27,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,69,,N/A,2,5,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,72,,N/A,2,12,N/A,N/A,N/A,N/A,Levante UD
+Lost Out,Tackle,72,,N/A,2,24,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,72,,N/A,2,37,N/A,N/A,N/A,N/A,Levante UD
+Success In Play,Tackle,74,,N/A,2,21,N/A,N/A,N/A,N/A,Eibar
+Success In Play,Tackle,74,,N/A,2,40,N/A,N/A,N/A,N/A,Eibar
+Lost Out,Tackle,74,,N/A,2,45,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,75,,N/A,2,2,N/A,N/A,N/A,N/A,Levante UD
+Won,Tackle,75,,N/A,2,12,N/A,N/A,N/A,N/A,Eibar
+Lost In Play,Tackle,75,,N/A,2,24,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,76,,N/A,2,9,N/A,N/A,N/A,N/A,Levante UD
+Lost Out,Tackle,76,,N/A,2,32,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,79,,N/A,2,6,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,79,,N/A,2,52,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,79,,N/A,2,59,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,81,,N/A,2,58,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,82,,N/A,2,8,N/A,N/A,N/A,N/A,Levante UD
+Success In Play,Tackle,82,,N/A,2,44,N/A,N/A,N/A,N/A,Eibar
+Lost In Play,Tackle,82,,N/A,2,46,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,83,,N/A,2,18,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,83,,N/A,2,21,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,83,,N/A,2,55,N/A,N/A,N/A,N/A,Levante UD
+Lost,Aerial Lost,84,,N/A,2,37,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,86,,N/A,2,15,N/A,N/A,N/A,N/A,Levante UD
+Lost Out,Tackle,86,,N/A,2,44,N/A,N/A,N/A,N/A,Eibar
+Won,Tackle,88,,N/A,2,8,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,88,,N/A,2,31,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,89,,N/A,2,21,N/A,N/A,N/A,N/A,Eibar
+Lost,Aerial Lost,90,,N/A,2,24,N/A,N/A,N/A,N/A,Eibar
+N/A,N/A,2,,N/A,1,58,Head,FALSE,Off T,Normal,Levante UD
+N/A,N/A,8,,N/A,1,33,Right Foot,FALSE,Saved,Normal,Eibar
+N/A,N/A,9,,N/A,1,26,Right Foot,True,Blocked,Half Volley,Eibar
+N/A,N/A,9,,N/A,1,49,Head,FALSE,Goal,Normal,Eibar
+N/A,N/A,15,,N/A,1,40,Head,FALSE,Off T,Normal,Levante UD
+N/A,N/A,16,,N/A,1,42,Right Foot,True,Blocked,Half Volley,Levante UD
+N/A,N/A,18,,N/A,1,42,Right Foot,FALSE,Off T,Normal,Eibar
+N/A,N/A,20,,N/A,1,37,Right Foot,True,Saved,Half Volley,Eibar
+N/A,N/A,29,,N/A,1,10,Left Foot,FALSE,Blocked,Normal,Levante UD
+N/A,N/A,34,,N/A,1,57,Right Foot,True,Post,Volley,Levante UD
+N/A,N/A,36,,N/A,1,33,Right Foot,FALSE,Blocked,Half Volley,Levante UD
+N/A,N/A,47,,N/A,2,30,Right Foot,True,Goal,Half Volley,Eibar
+N/A,N/A,51,,N/A,2,10,Right Foot,FALSE,Goal,Half Volley,Levante UD
+N/A,N/A,52,,N/A,2,13,Left Foot,FALSE,Blocked,Normal,Eibar
+N/A,N/A,60,,N/A,2,30,Right Foot,FALSE,Off T,Normal,Levante UD
+N/A,N/A,74,,N/A,2,0,Right Foot,FALSE,Blocked,Normal,Levante UD
+N/A,N/A,75,,N/A,2,41,Right Foot,FALSE,Blocked,Normal,Eibar
+N/A,N/A,76,,N/A,2,55,Head,FALSE,Wayward,Normal,Eibar
+N/A,N/A,77,,N/A,2,52,Right Foot,True,Blocked,Half Volley,Eibar
+N/A,N/A,88,,N/A,2,43,Right Foot,True,Wayward,Half Volley,Levante UD
+N/A,N/A,89,,N/A,2,21,Head,FALSE,Wayward,Normal,Levante UD
+N/A,N/A,92,,N/A,2,39,Head,FALSE,Goal,Normal,Levante UD
